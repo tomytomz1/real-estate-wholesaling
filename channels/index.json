@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "channels": [
+    {
+      "channelId": "UC7_KQNro8-poEhOYGpx8xrg",
+      "repository": "tomytomz1/real-estate-wholesaling",
+      "branch": "main",
+      "channelName": "Eric Cline",
+      "channelUrl": "https://www.youtube.com/@ericclineofficial",
+      "filePath": "channels/eric-cline-UC7_KQNro8-poEhOYGpx8xrg/README.md",
+      "dataPath": "channels/_data/UC7_KQNro8-poEhOYGpx8xrg.json",
+      "lastCheckedAt": "2026-10-06T23:01:15.863Z",
+      "lastUpdatedAt": "2026-10-06T23:01:12.855Z",
+      "nextCheckAt": "2026-10-07T23:01:15.863Z",
+      "lastError": null
+    }
+  ]
+}
