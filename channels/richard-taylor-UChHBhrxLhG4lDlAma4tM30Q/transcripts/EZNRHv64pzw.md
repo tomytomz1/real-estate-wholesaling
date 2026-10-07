@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=EZNRHv64pzw
 - **Video ID:** `EZNRHv64pzw`
-- **Published:** Unknown
+- **Published:** 2026-08-08 (approximate)
 - **Duration:** 13m 14s
 - **Language:** en
 

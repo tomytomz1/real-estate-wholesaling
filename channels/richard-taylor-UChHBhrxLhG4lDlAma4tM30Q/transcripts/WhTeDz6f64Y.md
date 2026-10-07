@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=WhTeDz6f64Y
 - **Video ID:** `WhTeDz6f64Y`
-- **Published:** Unknown
+- **Published:** 2026-04-08 (approximate)
 - **Duration:** 3m 1s
 - **Language:** en
 

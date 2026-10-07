@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=eerya36e2_Q
 - **Video ID:** `eerya36e2_Q`
-- **Published:** Unknown
+- **Published:** 2026-03-08 (approximate)
 - **Duration:** 32m 22s
 - **Language:** en
 

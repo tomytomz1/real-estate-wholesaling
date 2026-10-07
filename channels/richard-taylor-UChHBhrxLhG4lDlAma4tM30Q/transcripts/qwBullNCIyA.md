@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=qwBullNCIyA
 - **Video ID:** `qwBullNCIyA`
-- **Published:** Unknown
+- **Published:** 2026-07-08 (approximate)
 - **Duration:** 59m 22s
 - **Language:** en
 

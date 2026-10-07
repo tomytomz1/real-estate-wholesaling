@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=PmWxiurINPg
 - **Video ID:** `PmWxiurINPg`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 69m 41s
 - **Language:** en
 
