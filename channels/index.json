@@ -26,6 +26,19 @@
       "lastUpdatedAt": "2026-10-07T01:24:06.225Z",
       "nextCheckAt": "2026-10-08T01:24:29.849Z",
       "lastError": null
+    },
+    {
+      "channelId": "UCB9D7rt3l4oQc8r2d4yjK0w",
+      "repository": "tomytomz1/real-estate-wholesaling",
+      "branch": "main",
+      "channelName": "Willy Numbers",
+      "channelUrl": "https://www.youtube.com/@WillyNumbers",
+      "filePath": "channels/willy-numbers-UCB9D7rt3l4oQc8r2d4yjK0w/README.md",
+      "dataPath": "channels/_data/UCB9D7rt3l4oQc8r2d4yjK0w.json",
+      "lastCheckedAt": "2026-10-07T02:06:40.517Z",
+      "lastUpdatedAt": "2026-10-07T02:06:19.081Z",
+      "nextCheckAt": "2026-10-08T02:06:40.518Z",
+      "lastError": null
     }
   ]
 }
