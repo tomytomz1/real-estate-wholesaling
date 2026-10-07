@@ -1,15 +1,15 @@
 # Eric Cline — Transcript Archive
 
 > Channel: https://www.youtube.com/@ericclineofficial
-> Automatically updated: 2026-10-07T21:37:57.634Z
+> Automatically updated: 2026-10-07T22:14:32.922Z
 
-66 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
+67 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
 ## Videos
 
-1. [Don’t Negotiate With Sellers Until You Know These 3 Rules](./transcripts/DVKo_BLTQbI.md) — Transcript unavailable
+1. [Don’t Negotiate With Sellers Until You Know These 3 Rules](./transcripts/DVKo_BLTQbI.md) — ar
 2. [How I Brainwashed Myself To Become A MultiMillionaire (so easy)](./transcripts/B5dh39yyBqg.md) — ar
 3. [How to Start Virtual Wholesale Real Estate With $0 in 2026](./transcripts/C6LEeNrxDrA.md) — ar
 4. [TAMPA FLORIDA// RISING THROUGH VIRTUAL SALES](./transcripts/q6jkouLHwGk.md) — en
