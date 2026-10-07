@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=CFmqj-2Y5PE
 - **Video ID:** `CFmqj-2Y5PE`
-- **Published:** Unknown
+- **Published:** 2025-12-08 (approximate)
 - **Duration:** 16m 25s
 - **Language:** en
 

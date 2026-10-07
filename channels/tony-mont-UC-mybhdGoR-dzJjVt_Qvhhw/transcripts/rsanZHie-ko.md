@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=rsanZHie-ko
 - **Video ID:** `rsanZHie-ko`
-- **Published:** Unknown
+- **Published:** 2026-07-08 (approximate)
 - **Duration:** 16m 30s
 - **Language:** en
 

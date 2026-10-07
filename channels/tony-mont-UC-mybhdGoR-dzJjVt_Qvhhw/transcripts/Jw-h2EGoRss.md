@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=Jw-h2EGoRss
 - **Video ID:** `Jw-h2EGoRss`
-- **Published:** Unknown
+- **Published:** 2026-09-10 (approximate)
 - **Duration:** 9m 10s
 - **Language:** en
 

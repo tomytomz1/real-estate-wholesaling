@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=esoTKL55Ue4
 - **Video ID:** `esoTKL55Ue4`
-- **Published:** Unknown
+- **Published:** 2026-09-29 (approximate)
 - **Duration:** 19m 42s
 - **Language:** en
 
