@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=nlF5RoSoZDU
 - **Video ID:** `nlF5RoSoZDU`
-- **Published:** Unknown
+- **Published:** 2026-01-08 (approximate)
 - **Duration:** 5m 2s
 - **Language:** en
 

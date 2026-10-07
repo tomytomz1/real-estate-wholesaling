@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=EDLgVCB__1I
 - **Video ID:** `EDLgVCB__1I`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 101m 29s
 - **Language:** en
 
