@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=b3BEs4PeeFI
 - **Video ID:** `b3BEs4PeeFI`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 21m 32s
 - **Language:** en
 

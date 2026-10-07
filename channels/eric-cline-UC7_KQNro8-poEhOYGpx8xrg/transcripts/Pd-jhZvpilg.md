@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=Pd-jhZvpilg
 - **Video ID:** `Pd-jhZvpilg`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 20m 40s
 - **Language:** en
 

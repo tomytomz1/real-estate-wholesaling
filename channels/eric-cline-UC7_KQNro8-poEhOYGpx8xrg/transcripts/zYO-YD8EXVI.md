@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=zYO-YD8EXVI
 - **Video ID:** `zYO-YD8EXVI`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 103m 17s
 - **Language:** en
 

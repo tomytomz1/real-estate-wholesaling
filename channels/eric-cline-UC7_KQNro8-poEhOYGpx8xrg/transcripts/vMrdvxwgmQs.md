@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=vMrdvxwgmQs
 - **Video ID:** `vMrdvxwgmQs`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 15m 19s
 - **Language:** en
 

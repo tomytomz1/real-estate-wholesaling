@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=ezQ68Cntczw
 - **Video ID:** `ezQ68Cntczw`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 13m 11s
 - **Language:** en
 

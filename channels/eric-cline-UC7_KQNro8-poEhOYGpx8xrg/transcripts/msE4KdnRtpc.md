@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=msE4KdnRtpc
 - **Video ID:** `msE4KdnRtpc`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 58m 34s
 - **Language:** en
 

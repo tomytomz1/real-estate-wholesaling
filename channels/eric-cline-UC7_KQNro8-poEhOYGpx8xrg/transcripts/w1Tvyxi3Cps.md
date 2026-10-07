@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=w1Tvyxi3Cps
 - **Video ID:** `w1Tvyxi3Cps`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 23m 13s
 - **Language:** en
 

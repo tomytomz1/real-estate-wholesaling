@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=PT_u-49rb7o
 - **Video ID:** `PT_u-49rb7o`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 60m 25s
 - **Language:** en
 

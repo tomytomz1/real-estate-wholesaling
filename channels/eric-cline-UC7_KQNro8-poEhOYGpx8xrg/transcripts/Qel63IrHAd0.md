@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=Qel63IrHAd0
 - **Video ID:** `Qel63IrHAd0`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 38m 55s
 - **Language:** en
 

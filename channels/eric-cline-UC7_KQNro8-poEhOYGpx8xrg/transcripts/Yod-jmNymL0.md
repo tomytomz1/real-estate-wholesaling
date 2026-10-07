@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=Yod-jmNymL0
 - **Video ID:** `Yod-jmNymL0`
-- **Published:** Unknown
+- **Published:** 2025-10-08 (approximate)
 - **Duration:** 12m 33s
 - **Language:** en
 
