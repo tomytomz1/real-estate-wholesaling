@@ -61,10 +61,10 @@
       "channelUrl": "https://www.youtube.com/@WillyNumbers",
       "filePath": "channels/willy-numbers-UCB9D7rt3l4oQc8r2d4yjK0w/README.md",
       "dataPath": "channels/_data/UCB9D7rt3l4oQc8r2d4yjK0w.json",
-      "lastCheckedAt": "2026-10-07T22:01:30.459Z",
-      "lastUpdatedAt": "2026-10-07T02:06:19.081Z",
-      "nextCheckAt": "2026-10-08T22:01:30.459Z",
-      "lastError": "All 29 transcript lookups in this check failed (YouTube blocking, proxy trouble, or unreadable captions; the job log lists each video's reason). No transcripts were added."
+      "lastCheckedAt": "2026-10-07T22:22:27.661Z",
+      "lastUpdatedAt": "2026-10-07T22:22:27.661Z",
+      "nextCheckAt": "2026-10-08T22:22:37.618Z",
+      "lastError": null
     }
   ]
 }
