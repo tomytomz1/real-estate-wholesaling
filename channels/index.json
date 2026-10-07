@@ -35,10 +35,10 @@
       "channelUrl": "https://www.youtube.com/@HoldMyHandWholesale-1",
       "filePath": "channels/richard-taylor-UChHBhrxLhG4lDlAma4tM30Q/README.md",
       "dataPath": "channels/_data/UChHBhrxLhG4lDlAma4tM30Q.json",
-      "lastCheckedAt": "2026-10-07T21:41:26.153Z",
+      "lastCheckedAt": "2026-10-07T21:57:55.883Z",
       "lastUpdatedAt": "2026-10-07T01:24:06.225Z",
-      "nextCheckAt": "2026-10-08T21:41:26.153Z",
-      "lastError": "YouTube blocked transcript access from this server. No transcripts were added."
+      "nextCheckAt": "2026-10-08T21:57:55.883Z",
+      "lastError": "All 8 transcript lookups in this check failed (YouTube blocking, proxy trouble, or unreadable captions; the job log lists each video's reason). No transcripts were added."
     },
     {
       "channelId": "UC-mybhdGoR-dzJjVt_Qvhhw",
