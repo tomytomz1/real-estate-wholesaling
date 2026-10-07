@@ -48,10 +48,10 @@
       "channelUrl": "https://www.youtube.com/@thetonymont",
       "filePath": "channels/tony-mont-UC-mybhdGoR-dzJjVt_Qvhhw/README.md",
       "dataPath": "channels/_data/UC-mybhdGoR-dzJjVt_Qvhhw.json",
-      "lastCheckedAt": "2026-10-07T22:00:08.388Z",
-      "lastUpdatedAt": "2026-10-07T02:10:55.928Z",
-      "nextCheckAt": "2026-10-08T22:00:08.388Z",
-      "lastError": "All 53 transcript lookups in this check failed (YouTube blocking, proxy trouble, or unreadable captions; the job log lists each video's reason). No transcripts were added."
+      "lastCheckedAt": "2026-10-07T22:21:09.110Z",
+      "lastUpdatedAt": "2026-10-07T22:21:09.110Z",
+      "nextCheckAt": "2026-10-08T22:21:19.025Z",
+      "lastError": null
     },
     {
       "channelId": "UCB9D7rt3l4oQc8r2d4yjK0w",
