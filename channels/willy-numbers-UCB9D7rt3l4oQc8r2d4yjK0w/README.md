@@ -1,7 +1,7 @@
 # Willy Numbers — Transcript Archive
 
 > Channel: https://www.youtube.com/@WillyNumbers
-> Automatically updated: 2026-10-07T22:22:27.661Z
+> Automatically updated: 2026-10-07T22:37:06.500Z
 
 64 transcripts are available across 64 long-form videos. Each transcript is stored in its own readable Markdown file.
 
@@ -9,17 +9,17 @@ The archive checks for new uploads once every 24 hours.
 
 ## Videos
 
-1. [How I Turned $370K in Debt Into $104K Profit | Reverse Flip Breakdown](./transcripts/SlPlFoUlCSs.md) — bn
-2. [How to Wholesale Real Estate in 2026: The Complete Step-by-Step Guide](./transcripts/dW-MIWaDpv8.md) — bn
+1. [How I Turned $370K in Debt Into $104K Profit | Reverse Flip Breakdown](./transcripts/SlPlFoUlCSs.md) — en
+2. [How to Wholesale Real Estate in 2026: The Complete Step-by-Step Guide](./transcripts/dW-MIWaDpv8.md) — en
 3. [How He Made $61K in 61 Days With Just $7K (Real Estate Deal Breakdown)](./transcripts/RXSmt7SiZaI.md) — en
 4. [How to Build a Million Dollar Real Estate Business (Masterclass)](./transcripts/fB21D6Sl_bs.md) — en
 5. [The Exit Strategy I Use To Actually Make Six Figures Per Deal](./transcripts/1VNsNiDqCY8.md) — en
 6. [I Closed a $49,000 Deal in 11 Minutes (Here’s Exactly How)](./transcripts/9oSyxFMLUC4.md) — en
-7. [Get Rich in the NEW Era of Real Estate Wholesaling (2026)](./transcripts/vfmB4XeibMQ.md) — ar
-8. [My 6-Figure Deal Structure (Reverse Flip & Curative Title Explained)](./transcripts/AtzQhuelnYI.md) — ar
+7. [Get Rich in the NEW Era of Real Estate Wholesaling (2026)](./transcripts/vfmB4XeibMQ.md) — en
+8. [My 6-Figure Deal Structure (Reverse Flip & Curative Title Explained)](./transcripts/AtzQhuelnYI.md) — en
 9. [How to Get Ahead of Most Investors (With AI)](./transcripts/5fXsQzO5PFg.md) — en
 10. [$62K Profit Flip Without Picking Up a Hammer](./transcripts/Cyyaeh9ycJA.md) — en
-11. [Give me 1 hour..i'll show you how to build a 6-figure deal pipeline (step-by-step system)](./transcripts/aIjQ3fInPZc.md) — bn
+11. [Give me 1 hour..i'll show you how to build a 6-figure deal pipeline (step-by-step system)](./transcripts/aIjQ3fInPZc.md) — en
 12. [A Son Helping His Mom Sell Her House… What Happened on This Call Surprised Him](./transcripts/31Gw-UItnQk.md) — en
 13. [The 1 Mental Shift That Took Me From Broke to Millionaire](./transcripts/qm3_q_G933k.md) — en
 14. [How to Get $0 Deals Using 3 Simple Skills (No Money Needed)](./transcripts/Ml2XR0WK928.md) — en
@@ -51,9 +51,9 @@ The archive checks for new uploads once every 24 hours.
 40. [An absolute software for absolute hustlers](./transcripts/M-r36kYJg10.md) — en
 41. [He Got a Property for Just $1,000?! (No Joke)](./transcripts/OADybp6Jj9c.md) — en
 42. [From $1,000 Envelopes to the Godfather of Virtual Wholesaling | Cris Chico](./transcripts/1hSg7WtsSDk.md) — en
-43. [4 Deeds, $200K Profit: Niche Strategies for High-Value Deals](./transcripts/swdXvydUzo8.md) — ar
-44. [How Matias Got 19 Deals While Being a Stay-at-Home Dad](./transcripts/inGSpNI7FJM.md) — ar
-45. [A "Tiny" $30K deal│Steve Stefanski](./transcripts/LqEO_22SUZI.md) — ar
+43. [4 Deeds, $200K Profit: Niche Strategies for High-Value Deals](./transcripts/swdXvydUzo8.md) — en
+44. [How Matias Got 19 Deals While Being a Stay-at-Home Dad](./transcripts/inGSpNI7FJM.md) — en
+45. [A "Tiny" $30K deal│Steve Stefanski](./transcripts/LqEO_22SUZI.md) — en
 46. [From Prison to $18M Real Estate Developer │Jake Cortez’s Unfiltered Comeback](./transcripts/Ea8TCMAToKY.md) — en
 47. [He Thought It Was a $10K Deal… Then It Turned Into $60K+ With Reverse Flipping](./transcripts/KnhkJrg6V6A.md) — en
 48. [$150K in 17 days!](./transcripts/pE1HJKDdYgE.md) — en
