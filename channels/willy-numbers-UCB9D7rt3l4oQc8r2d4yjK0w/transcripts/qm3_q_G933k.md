@@ -1,0 +1,13 @@
+# The 1 Mental Shift That Took Me From Broke to Millionaire
+
+> From [Willy Numbers](https://www.youtube.com/@WillyNumbers)
+
+- **YouTube:** https://www.youtube.com/watch?v=qm3_q_G933k
+- **Video ID:** `qm3_q_G933k`
+- **Published:** Unknown
+- **Duration:** 2m 22s
+- **Language:** en
+
+## Transcript
+
+So day one guys, the final day of the six days of deeds. You've built momentum. You've sharpened your skills. You've upgraded your perspective. What Claus is proud of you for sticking with this series already. You're showing great promise for getting your next deed before Christmas. Now you're standing on the edge of something that's pretty big, right? You're at that moment where you're asking yourself that fork in the road. Am I gonna do this or not going to do this? You have a decision to make. Today isn't about learning more. Today is about shifting the identity of someone who solves problems, secures deeds, creates opportunities that other investors will never see. We see this happen time and time again. Tomorrow, the real transformation begins. Let's close out the series with the mindset that changes everything. The one tip and the only tip that you need is that tomorrow I want you to show up like somebody whose life depended on it. on the 60-minute challenge every single day. This isn't just a challenge. This isn't a cute workshop. This is the exact $10,000 playbook that investors used to pull $25,000 to $100,000 paydays from deals that everyone else threw away. Guys, in other words, you got to take this seriously. If you want life to change, then you have to change first. Today, you're getting access to the strategy that made wholesaling irrelevant. The system that turns dead leads into deeds, which is actual ownership, not contracts. And the perspective shift that separates five figure investors from seven figure operators. Most people attend, few people arrive. You need to arrive today because this is the day that your business stops being reactive and starts being inevitable. Camera on, workbook out, mind open. Your next six deal might be hiding in a lead that you mark dead. Let's flip your reality. No pun intended. And remember, this is no ordinary challenge. This is a week that's going to rewrite your weeks forever. Join the challenge and go VIP. For the deepest support, private access, and live deal diagnosis. I will actually review live deals with you in the VIP because you have the time to do so. If you bought the playbook, then you're already in. You already have a ticket. VIP is where the breakthroughs happen, though, and that's for serious people. Comment day one below and your personal RF strategist will get you sorted
