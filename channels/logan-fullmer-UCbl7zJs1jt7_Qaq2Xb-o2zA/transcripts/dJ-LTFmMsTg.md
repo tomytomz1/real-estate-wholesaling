@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=dJ-LTFmMsTg
 - **Video ID:** `dJ-LTFmMsTg`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 54m 11s
 - **Language:** en
 

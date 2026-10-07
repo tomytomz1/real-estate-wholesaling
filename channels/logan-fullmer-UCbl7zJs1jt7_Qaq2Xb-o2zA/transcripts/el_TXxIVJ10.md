@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=el_TXxIVJ10
 - **Video ID:** `el_TXxIVJ10`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 57m 41s
 - **Language:** en
 

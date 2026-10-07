@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=887nV_adkj0
 - **Video ID:** `887nV_adkj0`
-- **Published:** Unknown
+- **Published:** 2026-09-08 (approximate)
 - **Duration:** 71m 13s
 - **Language:** en
 

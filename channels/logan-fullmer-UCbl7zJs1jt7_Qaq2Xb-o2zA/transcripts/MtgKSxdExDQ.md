@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=MtgKSxdExDQ
 - **Video ID:** `MtgKSxdExDQ`
-- **Published:** Unknown
+- **Published:** 2026-09-08 (approximate)
 - **Duration:** 60m 51s
 - **Language:** en
 

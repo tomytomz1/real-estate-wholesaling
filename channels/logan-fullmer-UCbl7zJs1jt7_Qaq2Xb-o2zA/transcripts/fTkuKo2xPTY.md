@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=fTkuKo2xPTY
 - **Video ID:** `fTkuKo2xPTY`
-- **Published:** Unknown
+- **Published:** 2026-06-08 (approximate)
 - **Duration:** 57m 23s
 - **Language:** en
 

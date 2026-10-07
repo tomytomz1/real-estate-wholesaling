@@ -4,7 +4,7 @@
 
 - **YouTube:** https://www.youtube.com/watch?v=Y07PO1VpnSw
 - **Video ID:** `Y07PO1VpnSw`
-- **Published:** Unknown
+- **Published:** 2026-02-08 (approximate)
 - **Duration:** 60m 18s
 - **Language:** en
 
