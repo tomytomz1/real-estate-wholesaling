@@ -114,10 +114,12 @@
       "channelUrl": "https://www.youtube.com/@thetonymont",
       "filePath": "channels/tony-mont-UC-mybhdGoR-dzJjVt_Qvhhw/README.md",
       "dataPath": "channels/_data/UC-mybhdGoR-dzJjVt_Qvhhw.json",
-      "lastCheckedAt": "2026-10-07T22:21:09.110Z",
+      "lastCheckedAt": "2026-10-08T17:28:19.064Z",
       "lastUpdatedAt": "2026-10-07T22:21:09.110Z",
-      "nextCheckAt": "2026-10-08T22:21:19.025Z",
-      "lastError": null
+      "nextCheckAt": "2026-10-09T17:28:19.064Z",
+      "lastError": null,
+      "discoveredVideoCount": 92,
+      "backlogVideoCount": 0
     },
     {
       "channelId": "UCB9D7rt3l4oQc8r2d4yjK0w",
