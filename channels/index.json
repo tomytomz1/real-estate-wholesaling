@@ -28,6 +28,21 @@
       "lastError": null
     },
     {
+      "channelId": "UCRkUNGepO8YnTFHSj7urWsQ",
+      "repository": "tomytomz1/real-estate-wholesaling",
+      "branch": "main",
+      "channelName": "Pace Morby",
+      "channelUrl": "https://www.youtube.com/@PaceMorby",
+      "filePath": "channels/pace-morby-UCRkUNGepO8YnTFHSj7urWsQ/README.md",
+      "dataPath": "channels/_data/UCRkUNGepO8YnTFHSj7urWsQ.json",
+      "lastCheckedAt": null,
+      "lastUpdatedAt": null,
+      "nextCheckAt": null,
+      "lastError": null,
+      "discoveredVideoCount": 1179,
+      "backlogVideoCount": 1179
+    },
+    {
       "channelId": "UChHBhrxLhG4lDlAma4tM30Q",
       "repository": "tomytomz1/real-estate-wholesaling",
       "branch": "main",
