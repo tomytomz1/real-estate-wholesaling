@@ -5,7 +5,7 @@
     "name": "Logan Fullmer",
     "url": "https://www.youtube.com/@loganfullmer"
   },
-  "generatedAt": "2026-10-07T22:35:30.234Z",
+  "generatedAt": "2026-10-08T17:26:45.986Z",
   "videos": [
     {
       "videoId": "r0wPC82mzng",
@@ -1717,14 +1717,15 @@
       "title": "Why I got rid of single-family rentals and started buying metal buildings. #invest #realestate",
       "url": "https://www.youtube.com/watch?v=acokE8LvdIE",
       "publishedAt": "2024-10-08T00:00:00.000Z",
-      "publishedAtApproximate": true,
       "durationSeconds": 77,
       "transcriptStatus": "failed",
       "transcriptLanguage": null,
       "failureReason": "Transcript extraction failed. The archive will retry automatically.",
       "transcript": "",
-      "checkedAt": "2026-10-07T22:35:30.233Z",
-      "captionSelection": 2
+      "checkedAt": "2026-10-08T17:26:45.986Z",
+      "captionSelection": 2,
+      "publishedAtApproximate": true,
+      "failedChecks": 2
     },
     {
       "videoId": "xMDXNc8VCGo",
@@ -1748,5 +1749,6 @@
       },
       "checkedAt": "2026-10-07T22:17:48.120Z"
     }
-  ]
+  ],
+  "pendingEntries": []
 }
