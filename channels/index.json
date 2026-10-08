@@ -2,6 +2,21 @@
   "version": 1,
   "channels": [
     {
+      "channelId": "UCcsj9IjfX7-fhzLZRPtWo1Q",
+      "repository": "tomytomz1/real-estate-wholesaling",
+      "branch": "main",
+      "channelName": "Disruptors",
+      "channelUrl": "https://www.youtube.com/@DisruptorsPodcast",
+      "filePath": "channels/disruptors-UCcsj9IjfX7-fhzLZRPtWo1Q/README.md",
+      "dataPath": "channels/_data/UCcsj9IjfX7-fhzLZRPtWo1Q.json",
+      "lastCheckedAt": null,
+      "lastUpdatedAt": null,
+      "nextCheckAt": null,
+      "lastError": null,
+      "discoveredVideoCount": 733,
+      "backlogVideoCount": 733
+    },
+    {
       "channelId": "UC7_KQNro8-poEhOYGpx8xrg",
       "repository": "tomytomz1/real-estate-wholesaling",
       "branch": "main",
