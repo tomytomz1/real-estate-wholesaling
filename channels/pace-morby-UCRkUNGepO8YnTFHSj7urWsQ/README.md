@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-08T01:31:46.159Z
+> Automatically updated: 2026-10-08T17:28:05.141Z
 
-20 transcripts are available across 20 long-form videos. Each transcript is stored in its own readable Markdown file.
+24 transcripts are available across 24 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -29,3 +29,7 @@ The archive checks for new uploads once every 24 hours.
 18. [Buying A Gas Station, Restaurant, And RV Park For $0](./transcripts/QNKPZVbKUdU.md) — en
 19. [How To Aquire a Cash-Flowing Machine in 3.5 Days](./transcripts/U-N6uJU348I.md) — en
 20. [The Mindset Shift That Built A $100 Million Business](./transcripts/5-wsejffaB0.md) — en
+21. [The Morby Method: Buying Multifamily Real Estate With $2,700](./transcripts/aZc_m3GmYpM.md) — en
+22. [Why Zero Equity Deals Are The Best Real Estate Investments](./transcripts/lcx8AS7cNg8.md) — en
+23. [The Easiest Real Estate Strategy (For Any Level)](./transcripts/gZoHzFAA_vs.md) — en
+24. [The Note Strategy Making Wall Street Billions](./transcripts/hqRPnJPYUXM.md) — en
