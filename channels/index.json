@@ -129,10 +129,12 @@
       "channelUrl": "https://www.youtube.com/@WillyNumbers",
       "filePath": "channels/willy-numbers-UCB9D7rt3l4oQc8r2d4yjK0w/README.md",
       "dataPath": "channels/_data/UCB9D7rt3l4oQc8r2d4yjK0w.json",
-      "lastCheckedAt": "2026-10-07T22:37:06.499Z",
+      "lastCheckedAt": "2026-10-08T17:28:28.224Z",
       "lastUpdatedAt": "2026-10-07T22:37:06.500Z",
-      "nextCheckAt": "2026-10-08T22:37:08.753Z",
-      "lastError": null
+      "nextCheckAt": "2026-10-09T17:28:28.224Z",
+      "lastError": null,
+      "discoveredVideoCount": 64,
+      "backlogVideoCount": 0
     }
   ]
 }
