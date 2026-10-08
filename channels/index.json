@@ -69,10 +69,12 @@
       "channelUrl": "https://www.youtube.com/@loganfullmer",
       "filePath": "channels/logan-fullmer-UCbl7zJs1jt7_Qaq2Xb-o2zA/README.md",
       "dataPath": "channels/_data/UCbl7zJs1jt7_Qaq2Xb-o2zA.json",
-      "lastCheckedAt": "2026-10-07T22:35:30.233Z",
-      "lastUpdatedAt": "2026-10-07T22:35:30.234Z",
-      "nextCheckAt": "2026-10-08T22:35:33.057Z",
-      "lastError": null
+      "lastCheckedAt": "2026-10-08T17:26:45.986Z",
+      "lastUpdatedAt": "2026-10-08T17:26:45.986Z",
+      "nextCheckAt": "2026-10-09T17:26:52.161Z",
+      "lastError": null,
+      "discoveredVideoCount": 89,
+      "backlogVideoCount": 1
     },
     {
       "channelId": "UCRkUNGepO8YnTFHSj7urWsQ",
