@@ -99,10 +99,12 @@
       "channelUrl": "https://www.youtube.com/@HoldMyHandWholesale-1",
       "filePath": "channels/richard-taylor-UChHBhrxLhG4lDlAma4tM30Q/README.md",
       "dataPath": "channels/_data/UChHBhrxLhG4lDlAma4tM30Q.json",
-      "lastCheckedAt": "2026-10-07T22:36:13.674Z",
+      "lastCheckedAt": "2026-10-08T17:28:13.671Z",
       "lastUpdatedAt": "2026-10-07T22:36:13.674Z",
-      "nextCheckAt": "2026-10-08T22:36:15.816Z",
-      "lastError": null
+      "nextCheckAt": "2026-10-09T17:28:13.671Z",
+      "lastError": null,
+      "discoveredVideoCount": 22,
+      "backlogVideoCount": 0
     },
     {
       "channelId": "UC-mybhdGoR-dzJjVt_Qvhhw",
