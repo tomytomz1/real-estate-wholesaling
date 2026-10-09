@@ -5,7 +5,7 @@
     "name": "Logan Fullmer",
     "url": "https://www.youtube.com/@loganfullmer"
   },
-  "generatedAt": "2026-10-08T17:26:45.986Z",
+  "generatedAt": "2026-10-09T17:03:05.683Z",
   "videos": [
     {
       "videoId": "r0wPC82mzng",
@@ -1722,10 +1722,10 @@
       "transcriptLanguage": null,
       "failureReason": "Transcript extraction failed. The archive will retry automatically.",
       "transcript": "",
-      "checkedAt": "2026-10-08T17:26:45.986Z",
+      "checkedAt": "2026-10-09T17:03:05.682Z",
       "captionSelection": 2,
       "publishedAtApproximate": true,
-      "failedChecks": 2
+      "failedChecks": 3
     },
     {
       "videoId": "xMDXNc8VCGo",
