@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-09T17:02:13.938Z
+> Automatically updated: 2026-10-10T15:54:37.422Z
 
-12 transcripts are available across 12 long-form videos. Each transcript is stored in its own readable Markdown file.
+16 transcripts are available across 16 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -21,3 +21,7 @@ The archive checks for new uploads once every 24 hours.
 10. [Alex Built And Sold A Boring $100M Business](./transcripts/p6EUSLOWb3Q.md) — en
 11. [How Dakota’s Doing 300 Deals Working 10 Hours A Week](./transcripts/UyRdqCu2bhI.md) — en
 12. [From A Broke College Kid To Building A $300M A Year Junk Hauling Business](./transcripts/rXgGBG1nyQw.md) — en
+13. [He Went From Living In His Car To $4M A Year In Real Estate](./transcripts/HSPO5fZEKec.md) — en
+14. [How To Make $1 Million With The Right Marketing Budget](./transcripts/BDXMJbRnuXQ.md) — en
+15. [He Bought 1,000 Houses From Realtors Nobody Else Was Calling](./transcripts/97OpLHzV2HQ.md) — en
+16. [Your Profits Should Double Every 2.5 Years. Here’s Why It’s Not.](./transcripts/ma25xuYR7T0.md) — en
