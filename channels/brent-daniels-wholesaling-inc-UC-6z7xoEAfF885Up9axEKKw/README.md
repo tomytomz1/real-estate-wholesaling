@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-09T17:01:40.822Z
+> Automatically updated: 2026-10-10T15:54:11.107Z
 
-12 transcripts are available across 12 long-form videos. Each transcript is stored in its own readable Markdown file.
+16 transcripts are available across 16 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -21,3 +21,7 @@ The archive checks for new uploads once every 24 hours.
 10. [Will He Get to $10 Million? | Winc. Podcast](./transcripts/zKZpUNujkkc.md) — en
 11. [The Hormozi Cold Email Strategy For Real Estate | Winc. Podcast](./transcripts/rEf_YqjIvaA.md) — en
 12. [Watch Me Get FREE Deals…](./transcripts/lTWBe_I1mV8.md) — en
+13. [Close a Deal EVERY 48 HOURS | Winc. Podcast](./transcripts/kLa1gmqOtL0.md) — en
+14. [Simple Actions. Massive Paydays.](./transcripts/PsBqP6wv5M4.md) — en
+15. [Here’s How To Do BIGGER Deals…](./transcripts/BbFNnuGc-BY.md) — en
+16. [If I had to Start Over, I’d Do This To Get My First Deal...](./transcripts/LjEuVKfWPys.md) — en
