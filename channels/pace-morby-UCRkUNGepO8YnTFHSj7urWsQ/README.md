@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-09T17:03:25.173Z
+> Automatically updated: 2026-10-10T15:55:59.748Z
 
-28 transcripts are available across 28 long-form videos. Each transcript is stored in its own readable Markdown file.
+32 transcripts are available across 32 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -37,3 +37,7 @@ The archive checks for new uploads once every 24 hours.
 26. [The Note Strategy Making Wall Street Billions](./transcripts/hqRPnJPYUXM.md) — en
 27. [How To Buy A Cash-Flowing Duplex For $0 Down](./transcripts/ZiuDR0GGLf8.md) — en
 28. [The Secret To Finding Unlimited Real Estate Investors](./transcripts/YvNyzRJJTIY.md) — en
+29. [How We Are Turning A 4-Bed House Into A 9-Bed Co-Living Deal](./transcripts/2zZp0zAYVmU.md) — en
+30. [How To Use Creative Finance To Escape A Bad Mortgage](./transcripts/bb0IvRlCOOQ.md) — en
+31. [How We Turned A Failing Laundromat Into $35,000 A Month](./transcripts/txtIrefTlnU.md) — en
+32. [How I Get Sellers to Say Yes to $0 Down](./transcripts/vxw8anm1JY4.md) — en
