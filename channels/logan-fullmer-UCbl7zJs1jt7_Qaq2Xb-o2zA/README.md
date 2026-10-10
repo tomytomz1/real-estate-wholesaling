@@ -1,7 +1,7 @@
 # Logan Fullmer — Transcript Archive
 
 > Channel: https://www.youtube.com/@loganfullmer
-> Automatically updated: 2026-10-09T17:03:05.683Z
+> Automatically updated: 2026-10-10T15:55:32.889Z
 
 88 transcripts are available across 89 long-form videos. Each transcript is stored in its own readable Markdown file.
 
