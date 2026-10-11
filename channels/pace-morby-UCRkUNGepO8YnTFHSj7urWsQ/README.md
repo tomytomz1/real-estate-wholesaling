@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-10T15:55:59.748Z
+> Automatically updated: 2026-10-11T16:22:39.119Z
 
-32 transcripts are available across 32 long-form videos. Each transcript is stored in its own readable Markdown file.
+36 transcripts are available across 36 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -41,3 +41,7 @@ The archive checks for new uploads once every 24 hours.
 30. [How To Use Creative Finance To Escape A Bad Mortgage](./transcripts/bb0IvRlCOOQ.md) — en
 31. [How We Turned A Failing Laundromat Into $35,000 A Month](./transcripts/txtIrefTlnU.md) — en
 32. [How I Get Sellers to Say Yes to $0 Down](./transcripts/vxw8anm1JY4.md) — en
+33. [Why I Never Negotiate On Price (Live Seller Call)](./transcripts/yrDI3_F7vug.md) — en
+34. [The Most Commonly Asked Questions About Private Money Lending.](./transcripts/11zKc89dZbE.md) — en
+35. [Top 10 Ways To Find Off-Market RV Park Deals](./transcripts/HM7WWuFs2u8.md) — en
+36. [How To Build A Real Estate Team And Get Your First Deal](./transcripts/z8plSeuQinU.md) — en
