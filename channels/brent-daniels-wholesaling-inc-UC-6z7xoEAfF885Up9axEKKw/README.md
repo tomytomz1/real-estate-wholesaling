@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-10T15:54:11.107Z
+> Automatically updated: 2026-10-11T16:21:06.830Z
 
-16 transcripts are available across 16 long-form videos. Each transcript is stored in its own readable Markdown file.
+20 transcripts are available across 20 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -25,3 +25,7 @@ The archive checks for new uploads once every 24 hours.
 14. [Simple Actions. Massive Paydays.](./transcripts/PsBqP6wv5M4.md) — en
 15. [Here’s How To Do BIGGER Deals…](./transcripts/BbFNnuGc-BY.md) — en
 16. [If I had to Start Over, I’d Do This To Get My First Deal...](./transcripts/LjEuVKfWPys.md) — en
+17. [The Most Awkward Wholesale Deal I’ve Ever Closed | Winc. Podcast](./transcripts/GtK5mZLEWCE.md) — en
+18. [Alex Hormozi Gave Wholesalers THIS Advice…](./transcripts/nfWWIrx1JwU.md) — en
+19. [I can finally talk about this new AI real estate tool... | Winc. Podcast](./transcripts/-EsqZWEP2-A.md) — en
+20. [How a Bus Driver Made $55,000 on ONE Deal | Winc. Podcast](./transcripts/iQlYcNGKG5E.md) — en
