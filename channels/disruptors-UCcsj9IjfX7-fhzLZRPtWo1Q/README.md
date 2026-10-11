@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-10T15:54:37.422Z
+> Automatically updated: 2026-10-11T16:21:34.808Z
 
-16 transcripts are available across 16 long-form videos. Each transcript is stored in its own readable Markdown file.
+20 transcripts are available across 20 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -25,3 +25,7 @@ The archive checks for new uploads once every 24 hours.
 14. [How To Make $1 Million With The Right Marketing Budget](./transcripts/BDXMJbRnuXQ.md) — en
 15. [He Bought 1,000 Houses From Realtors Nobody Else Was Calling](./transcripts/97OpLHzV2HQ.md) — en
 16. [Your Profits Should Double Every 2.5 Years. Here’s Why It’s Not.](./transcripts/ma25xuYR7T0.md) — en
+17. [How Flipping Manufactured Homes Let's Jason Travel The World 3 Months At A Time](./transcripts/XoO_NiFTHFw.md) — en
+18. [How Bobby Built 5 Businesses That Run Without Him](./transcripts/ITMzyEj2eA8.md) — en
+19. [How Travis Became A Millionaire Working 3 Hours A Day](./transcripts/YclOuOXnVbg.md) — en
+20. [We’ve Generated 5 Million Leads Now AI Found Something 3x Better Than Google](./transcripts/4nYm_HcKruQ.md) — en
