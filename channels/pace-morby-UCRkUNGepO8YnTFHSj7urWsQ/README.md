@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-11T16:22:39.119Z
+> Automatically updated: 2026-10-12T19:52:24.342Z
 
-36 transcripts are available across 36 long-form videos. Each transcript is stored in its own readable Markdown file.
+40 transcripts are available across 40 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -45,3 +45,7 @@ The archive checks for new uploads once every 24 hours.
 34. [The Most Commonly Asked Questions About Private Money Lending.](./transcripts/11zKc89dZbE.md) — en
 35. [Top 10 Ways To Find Off-Market RV Park Deals](./transcripts/HM7WWuFs2u8.md) — en
 36. [How To Build A Real Estate Team And Get Your First Deal](./transcripts/z8plSeuQinU.md) — en
+37. [The Top 10 Things You Need To Know Before Buying An RV Park](./transcripts/cTAI9s5D-gY.md) — en
+38. [How To Turn An RV Park Into A Cash-Flowing Machine](./transcripts/c2wj6KavMBY.md) — en
+39. [Touring 5 Real Estate Appointments In One Day](./transcripts/8-urGEFpRK0.md) — en
+40. [Become RV Park Royalty In Just 3 Steps](./transcripts/BF_Ke1p0ddY.md) — en
