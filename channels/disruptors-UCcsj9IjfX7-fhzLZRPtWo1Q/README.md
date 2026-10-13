@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-12T19:50:54.063Z
+> Automatically updated: 2026-10-13T17:38:34.116Z
 
-24 transcripts are available across 24 long-form videos. Each transcript is stored in its own readable Markdown file.
+28 transcripts are available across 28 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -33,3 +33,7 @@ The archive checks for new uploads once every 24 hours.
 22. [The Secrets The Wealthy Pay $100K For... Cameron Herold Just Gave Them Away](./transcripts/c3fCLNsGRjQ.md) — en
 23. [From College Dropout To $75 Million Selling Books](./transcripts/o5ct7le3FFo.md) — en
 24. [The 3 Hacks To Earn $300K A Month In Wholesale](./transcripts/6BOQizoqeBQ.md) — en
+25. [Why Cold Calling Is Dead In 2026… Lessons Learned After Spending $100M In Ads](./transcripts/SNwsOg0XpYk.md) — en
+26. [This One Reason Why 58% Of Real Estate Deals Die](./transcripts/X6EM5-uLUzo.md) — en
+27. [Building A $125M Construction Portfolio At 27](./transcripts/j3F9WP2N1iE.md) — en
+28. [Most Entrepreneurs Barely Build One… She Runs Multiple 8 Figure Businesses](./transcripts/YTrJfbJ7Fxw.md) — en
