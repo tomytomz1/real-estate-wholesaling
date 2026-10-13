@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-12T19:51:51.387Z
+> Automatically updated: 2026-10-13T17:39:17.877Z
 
-23 transcripts are available across 24 long-form videos. Each transcript is stored in its own readable Markdown file.
+27 transcripts are available across 27 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -22,14 +22,17 @@ The archive checks for new uploads once every 24 hours.
 11. [You’ll Keep Losing Wholesale Deals Until You Learn to Close Sellers](./transcripts/NcTOk46CMRk.md) — en
 12. [60 Minutes of REAL Seller Calls—Watch How I Negotiate](./transcripts/I1-50GZUbJs.md) — en
 13. [How to Find UNLIMITED Cash Buyers for Wholesale Deals! (new tool)](./transcripts/CIqMCKUH7RU.md) — en
-14. [Why Most Wholesalers Can’t Scale Past a Few Deals](./transcripts/WZoRsCTa3A4.md) — Transcript unavailable
-15. [The Ugly Truth About Wholesaling Houses on Zillow](./transcripts/3xqAS1GETzE.md) — en
-16. [WATCH ME Get 2 Multi-Family Properties From 1 Seller (LIVE CALL)](./transcripts/6SvUsZbfj5s.md) — en
-17. [I Found The Worst Real Estate Agent (how to avoid bad agents)](./transcripts/DMJQg1lVy1U.md) — en
-18. [Stop Analyzing Wholesale Deals. Do this instead](./transcripts/yqgArWKFaFE.md) — en
-19. [How I’d Start Wholesaling in 2026 (if I had to start over...)](./transcripts/y5zQuO2xUDo.md) — en
-20. [EXACTLY How To Get Your First Deal In The Next 7 Days!](./transcripts/fYOw1CV9Od4.md) — en
-21. [WATCH ME Get A Subject-To Deal For Only $5000 (LIVE CALL)](./transcripts/wLyz-IWMe8o.md) — en
-22. [The Hardest Call I've EVER Had With A Motivated Seller](./transcripts/L13HYH0CnYo.md) — en
-23. [The Best Way to Start Real Estate Investing in 2026](./transcripts/VT9HkOGgcaI.md) — en
+14. [The Ugly Truth About Wholesaling Houses on Zillow](./transcripts/3xqAS1GETzE.md) — en
+15. [WATCH ME Get 2 Multi-Family Properties From 1 Seller (LIVE CALL)](./transcripts/6SvUsZbfj5s.md) — en
+16. [I Found The Worst Real Estate Agent (how to avoid bad agents)](./transcripts/DMJQg1lVy1U.md) — en
+17. [Stop Analyzing Wholesale Deals. Do this instead](./transcripts/yqgArWKFaFE.md) — en
+18. [How I’d Start Wholesaling in 2026 (if I had to start over...)](./transcripts/y5zQuO2xUDo.md) — en
+19. [EXACTLY How To Get Your First Deal In The Next 7 Days!](./transcripts/fYOw1CV9Od4.md) — en
+20. [WATCH ME Get A Subject-To Deal For Only $5000 (LIVE CALL)](./transcripts/wLyz-IWMe8o.md) — en
+21. [The Hardest Call I've EVER Had With A Motivated Seller](./transcripts/L13HYH0CnYo.md) — en
+22. [The Best Way to Start Real Estate Investing in 2026](./transcripts/VT9HkOGgcaI.md) — en
+23. [Why Most Wholesalers Can’t Scale Past a Few Deals](./transcripts/WZoRsCTa3A4.md) — en
 24. [My Son’s First House Flip: PART 1 - Finding the Deal](./transcripts/sDkjFN8efJ8.md) — en
+25. [Wholesalers - Do This to 4x Your Revenue in 2026 (NOT Fix & Flip)](./transcripts/BsLVnob8yWI.md) — en
+26. [How To Wholesale Houses - $5000 in Under An Hour!](./transcripts/kjTfHMn4hbQ.md) — en
+27. [How I Calculate Wholesale Offers (While On The Phone)](./transcripts/pXv0hArYXYk.md) — en
