@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-13T17:39:17.877Z
+> Automatically updated: 2026-10-14T15:16:51.106Z
 
-27 transcripts are available across 27 long-form videos. Each transcript is stored in its own readable Markdown file.
+31 transcripts are available across 31 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -36,3 +36,7 @@ The archive checks for new uploads once every 24 hours.
 25. [Wholesalers - Do This to 4x Your Revenue in 2026 (NOT Fix & Flip)](./transcripts/BsLVnob8yWI.md) — en
 26. [How To Wholesale Houses - $5000 in Under An Hour!](./transcripts/kjTfHMn4hbQ.md) — en
 27. [How I Calculate Wholesale Offers (While On The Phone)](./transcripts/pXv0hArYXYk.md) — en
+28. [Complete Note Flipping System Revealed (Detailed Training)](./transcripts/eigyUjk2eP4.md) — en
+29. [How To Make Big Profit Flipping Real Estate "Notes"](./transcripts/H4prpnfDzfo.md) — en
+30. [How To Wholesale Land For FREE (Steal This EXACT Blueprint)](./transcripts/fj7727H-yjI.md) — en
+31. [Watch Me Close 3 Wholesale Deals In Under 40 Minutes!](./transcripts/dAJWOajUGDk.md) — en
