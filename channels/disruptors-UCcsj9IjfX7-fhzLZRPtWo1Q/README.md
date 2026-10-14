@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-13T17:38:34.116Z
+> Automatically updated: 2026-10-14T15:15:30.561Z
 
-28 transcripts are available across 28 long-form videos. Each transcript is stored in its own readable Markdown file.
+32 transcripts are available across 32 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -37,3 +37,7 @@ The archive checks for new uploads once every 24 hours.
 26. [This One Reason Why 58% Of Real Estate Deals Die](./transcripts/X6EM5-uLUzo.md) — en
 27. [Building A $125M Construction Portfolio At 27](./transcripts/j3F9WP2N1iE.md) — en
 28. [Most Entrepreneurs Barely Build One… She Runs Multiple 8 Figure Businesses](./transcripts/YTrJfbJ7Fxw.md) — en
+29. [How To Create A Billion Dollar Business In 3 Years](./transcripts/XcBEnoH7a1o.md) — en
+30. [$30M In Assignment Fees In 2025… After Losing Everything In 2008](./transcripts/f2uVO0bjDg0.md) — en
+31. [I'm Going To Be A Billionaire Tommy Mello's Story](./transcripts/-h3Eq2rdwh4.md) — en
+32. [$6M in Profit in 2025 with Only 12 Employees](./transcripts/ihVkzwW3upE.md) — en
