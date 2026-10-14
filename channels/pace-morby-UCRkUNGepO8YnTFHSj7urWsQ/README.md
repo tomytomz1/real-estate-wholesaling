@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-13T17:39:49.344Z
+> Automatically updated: 2026-10-14T15:18:18.100Z
 
-44 transcripts are available across 44 long-form videos. Each transcript is stored in its own readable Markdown file.
+48 transcripts are available across 48 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -53,3 +53,7 @@ The archive checks for new uploads once every 24 hours.
 42. [The Worse The Property, The Better The Deal (Here Is Why)](./transcripts/Fd1jHDKWWH8.md) — en
 43. [How We Found a Cash-Flowing House in Under 24 Hours](./transcripts/ZNhAKRnUSxE.md) — en
 44. [BRRR & Airbnb Are Dead. How To Make 6-Figures Flipping Instead.](./transcripts/JpEeVgt29os.md) — en
+45. [Stop Making Excuses: Invest In Real Estate With Zero Money](./transcripts/Ehn9f-gluKA.md) — en
+46. [Where To Find Real Estate Deals (For Beginners)](./transcripts/Nb3JZVWkQbQ.md) — en
+47. [The Best Kept Secret In Commercial Real Estate](./transcripts/V8sFdbhYeDU.md) — en
+48. [How To Structure A Zero Down Master Lease Deal](./transcripts/ZWd--YZBC6M.md) — en
