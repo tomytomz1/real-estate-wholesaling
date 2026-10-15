@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-14T15:15:30.561Z
+> Automatically updated: 2026-10-15T15:11:14.984Z
 
-32 transcripts are available across 32 long-form videos. Each transcript is stored in its own readable Markdown file.
+36 transcripts are available across 36 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -41,3 +41,7 @@ The archive checks for new uploads once every 24 hours.
 30. [$30M In Assignment Fees In 2025… After Losing Everything In 2008](./transcripts/f2uVO0bjDg0.md) — en
 31. [I'm Going To Be A Billionaire Tommy Mello's Story](./transcripts/-h3Eq2rdwh4.md) — en
 32. [$6M in Profit in 2025 with Only 12 Employees](./transcripts/ihVkzwW3upE.md) — en
+33. [1 In 4 Sellers Contact Us Before Selling Their Homes](./transcripts/dbTjRO4NOFc.md) — en
+34. [Why 90% of Hustlers Never Hit $1 Million Dollars](./transcripts/wKx4-ACTPOo.md) — en
+35. [From $60M Debt To Funding $4B In 2025](./transcripts/ZbCCYjSQaoI.md) — en
+36. [$1M in 2026: 5 Lessons I’d Copy From 2025](./transcripts/SJcZzbms7Jc.md) — en
