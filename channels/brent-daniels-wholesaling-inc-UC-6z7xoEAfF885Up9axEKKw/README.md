@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-15T15:08:36.761Z
+> Automatically updated: 2026-10-16T14:55:05.411Z
 
-36 transcripts are available across 36 long-form videos. Each transcript is stored in its own readable Markdown file.
+40 transcripts are available across 40 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -45,3 +45,7 @@ The archive checks for new uploads once every 24 hours.
 34. [These 24/26 Year Olds Closed 150+ Wholesale Deals | Winc. Podcast](./transcripts/nFK-opLa_Nw.md) — en
 35. [Personal Trainer CLOSES $220,000 Deal | Winc. Podcast](./transcripts/Q24hyxsNqXk.md) — en
 36. [23 Year Old Closed $40K Deal | Winc. Podcast](./transcripts/CkVmvjlAgkk.md) — en
+37. [The SECRET To 100+ Deals A YEAR | Winc. Podcast](./transcripts/O7JPJOOTQ0k.md) — en
+38. [How She Closed an $84K Deal Part Time | Winc. Podcast](./transcripts/CB0baYobyxo.md) — en
+39. [Close 2 Deals EVERY Week!! | Winc. Podcast](./transcripts/vxH8ufXyvC8.md) — en
+40. [From Homeless To $4,000,000 | Winc. Podcast](./transcripts/o_ZjCkzljFc.md) — en
