@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-15T15:12:48.171Z
+> Automatically updated: 2026-10-16T14:56:29.072Z
 
-35 transcripts are available across 35 long-form videos. Each transcript is stored in its own readable Markdown file.
+39 transcripts are available across 39 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -44,3 +44,7 @@ The archive checks for new uploads once every 24 hours.
 33. [WATCH ME Get A Deal in 10 Minutes From An Agent (Cost Me $0)](./transcripts/BTzZ2S-0mSg.md) — en
 34. [Every Way To Make Money Flipping Real Estate EXPLAINED](./transcripts/REACMmRC0XM.md) — en
 35. [How To Get Agents To Bring You Off-Market Deals (LIVE CALL Breakdown)](./transcripts/B4o951f46w0.md) — en
+36. [How To Make A Cash Offer To A Real Estate Agent (LIVE Call)](./transcripts/UtIgDhMDE5c.md) — en
+37. [How To Go From $0 to $1 Million A Year in Real Estate w/ Mark Stubler](./transcripts/Pitu3jNYsx0.md) — en
+38. [WATCH ME Negotiate With A Difficult Seller (LIVE CALL)](./transcripts/RL5c0gVpMVU.md) — en
+39. [How to Tell Sellers You’re a Wholesaler (Without Killing the Deal)](./transcripts/t0d-5IC3GsM.md) — en
