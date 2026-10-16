@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-15T15:14:20.706Z
+> Automatically updated: 2026-10-16T14:57:29.779Z
 
-52 transcripts are available across 52 long-form videos. Each transcript is stored in its own readable Markdown file.
+56 transcripts are available across 56 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -61,3 +61,7 @@ The archive checks for new uploads once every 24 hours.
 50. [The Zero Down Strategy Changing Real Estate](./transcripts/cNxx04UQsGI.md) — en
 51. [Building a Real Estate Business From Scratch](./transcripts/8RMFkSe4vFg.md) — en
 52. [Live Calls Negotiating Seller Finance Deals](./transcripts/5C_q6Y0BH2A.md) — en
+53. [How To Find Buyers (And Get Paid In 5 Days)](./transcripts/NFDHjKVQy34.md) — en
+54. [The Top 10 Excuses Preventing You From Your First Deal](./transcripts/tHDZV4zz2jE.md) — en
+55. [Subject To Real Estate For Beginners](./transcripts/WcouJgWJk40.md) — en
+56. [This Zero Down Deal Proves Anyone Can Invest in Real Estate](./transcripts/Clhiul9MGBA.md) — en
