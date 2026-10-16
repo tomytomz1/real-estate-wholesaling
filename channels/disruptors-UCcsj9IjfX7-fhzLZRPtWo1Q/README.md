@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-15T15:11:14.984Z
+> Automatically updated: 2026-10-16T14:55:43.851Z
 
-36 transcripts are available across 36 long-form videos. Each transcript is stored in its own readable Markdown file.
+40 transcripts are available across 40 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -45,3 +45,7 @@ The archive checks for new uploads once every 24 hours.
 34. [Why 90% of Hustlers Never Hit $1 Million Dollars](./transcripts/wKx4-ACTPOo.md) — en
 35. [From $60M Debt To Funding $4B In 2025](./transcripts/ZbCCYjSQaoI.md) — en
 36. [$1M in 2026: 5 Lessons I’d Copy From 2025](./transcripts/SJcZzbms7Jc.md) — en
+37. [How To Double Sales Without Extra Employees](./transcripts/rghyFkQkA7c.md) — en
+38. [From Losing $55K To Raising $400M Using A New Smarter Model Nobody Is Talking About](./transcripts/Dc6tyyTTu7I.md) — en
+39. [How To Double Your Deal Flow In 100 Days Or Less](./transcripts/Ddhyhs3fh9w.md) — en
+40. [How Cameron Herold Built 3 Different $100M Companies](./transcripts/pGERK-2KeeU.md) — en
