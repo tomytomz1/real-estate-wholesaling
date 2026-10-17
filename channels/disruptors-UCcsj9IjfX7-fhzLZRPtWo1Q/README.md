@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-16T14:55:43.851Z
+> Automatically updated: 2026-10-17T13:48:00.161Z
 
-40 transcripts are available across 40 long-form videos. Each transcript is stored in its own readable Markdown file.
+44 transcripts are available across 44 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -49,3 +49,7 @@ The archive checks for new uploads once every 24 hours.
 38. [From Losing $55K To Raising $400M Using A New Smarter Model Nobody Is Talking About](./transcripts/Dc6tyyTTu7I.md) — en
 39. [How To Double Your Deal Flow In 100 Days Or Less](./transcripts/Ddhyhs3fh9w.md) — en
 40. [How Cameron Herold Built 3 Different $100M Companies](./transcripts/pGERK-2KeeU.md) — en
+41. [Buying Kanye’s $57M Mansion: Just 1 Of My 3,000+ Flips](./transcripts/-WDZ_eAJquc.md) — en
+42. [How Brett Became A Multi-Millionaire After Growing Up Broke, In A Farm](./transcripts/SVacUv4NIdY.md) — en
+43. [From Managing Hooter's To Running A $2 Billion Real Estate Empire](./transcripts/B431QFsnjjs.md) — en
+44. [How Jeff Jumped From $4M To $31M In 6 Years](./transcripts/IgrRpTAKEEw.md) — en
