@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-17T13:47:10.443Z
+> Automatically updated: 2026-10-18T14:04:27.267Z
 
-44 transcripts are available across 44 long-form videos. Each transcript is stored in its own readable Markdown file.
+48 transcripts are available across 48 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -53,3 +53,7 @@ The archive checks for new uploads once every 24 hours.
 42. [Getting BIG Wholesale Deals On The MLS (Breakdown) | Winc. Podcast](./transcripts/nAoSQ5JuFA4.md) — en
 43. [How a 26 Year Old CLOSED 94 Deals | Winc. Podcast](./transcripts/rnsZpD4YiuM.md) — en
 44. [The $6,000,000 Wholesaling Business Powered by AI | Winc. Podcast](./transcripts/uqCCA8zYSrY.md) — en
+45. [$65,000 Deal Breakdown (Made Every Mistake In The Book) | Winc. Podcast](./transcripts/_rDhkmnPnug.md) — en
+46. [$700,000 Virtual Wholesale Business Blueprint | Winc. Podcast](./transcripts/27dDPmPupyI.md) — en
+47. [New Wholesaler Closes $137K Deal | Winc. Podcast](./transcripts/NLO8P6Pc2mU.md) — en
+48. [$250K Profit Per Deal (Not Fix and Flip) | Winc. Podcast](./transcripts/WhL2Vui1CA8.md) — en
