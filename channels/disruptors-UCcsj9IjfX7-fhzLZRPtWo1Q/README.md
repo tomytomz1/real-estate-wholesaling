@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-17T13:48:00.161Z
+> Automatically updated: 2026-10-18T14:05:05.995Z
 
-44 transcripts are available across 44 long-form videos. Each transcript is stored in its own readable Markdown file.
+48 transcripts are available across 48 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -53,3 +53,7 @@ The archive checks for new uploads once every 24 hours.
 42. [How Brett Became A Multi-Millionaire After Growing Up Broke, In A Farm](./transcripts/SVacUv4NIdY.md) — en
 43. [From Managing Hooter's To Running A $2 Billion Real Estate Empire](./transcripts/B431QFsnjjs.md) — en
 44. [How Jeff Jumped From $4M To $31M In 6 Years](./transcripts/IgrRpTAKEEw.md) — en
+45. [How I Earned $500k While on Vacation](./transcripts/OvTbDMpTkgo.md) — en
+46. [From Living In My Car To Buying Houses Nationwide - Nick Perry's Story](./transcripts/IcPDVcjx--Y.md) — en
+47. [From Selling Viagra To $25M In Affordable Housing](./transcripts/t6t4iehjRgk.md) — en
+48. [$30K To $3M In 3 Years… Clay Hepler’s Secret To Land Flipping](./transcripts/AJvUyT_0pH4.md) — en
