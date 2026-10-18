@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-17T13:49:30.079Z
+> Automatically updated: 2026-10-18T14:07:59.567Z
 
-60 transcripts are available across 60 long-form videos. Each transcript is stored in its own readable Markdown file.
+64 transcripts are available across 64 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -69,3 +69,7 @@ The archive checks for new uploads once every 24 hours.
 58. [I Did Deals in Every State and Canada (Full Documentary)](./transcripts/b4AlrZjgtaY.md) — en
 59. [How To Buy A Luxury Real Estate Flip For $10](./transcripts/bsVMkX7UDUU.md) — en
 60. [My Top 18 Deals (One Cost Me $1)](./transcripts/he_yyFRuvPg.md) — en
+61. [House Hacking A Seller Finance Estate](./transcripts/x-PdFx-nPY4.md) — en
+62. [Never Blindly Trust Your Contractor | The Permit Violation That Almost Ruined Her Flip](./transcripts/E54ZKaf8opY.md) — en
+63. [Live Mobile Home Park Seller Call](./transcripts/JVQnqG3SSuo.md) — en
+64. [How To Buy Oceanfront Properties $0 Down](./transcripts/ABG_NlMlsxA.md) — en
