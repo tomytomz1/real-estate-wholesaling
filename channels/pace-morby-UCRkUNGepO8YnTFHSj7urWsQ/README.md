@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-18T14:07:59.567Z
+> Automatically updated: 2026-10-19T17:01:15.725Z
 
-64 transcripts are available across 64 long-form videos. Each transcript is stored in its own readable Markdown file.
+68 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -73,3 +73,7 @@ The archive checks for new uploads once every 24 hours.
 62. [Never Blindly Trust Your Contractor | The Permit Violation That Almost Ruined Her Flip](./transcripts/E54ZKaf8opY.md) — en
 63. [Live Mobile Home Park Seller Call](./transcripts/JVQnqG3SSuo.md) — en
 64. [How To Buy Oceanfront Properties $0 Down](./transcripts/ABG_NlMlsxA.md) — en
+65. [Locking Up A $425k Deal With Zero Dollars](./transcripts/UyTVmzJI9lw.md) — en
+66. [Stop Renting Houses: Use This LLC Wrap Method](./transcripts/uvntSMvIg5E.md) — en
+67. [He Bought a $29M Property And You Can Too](./transcripts/T7TX92nO_Eg.md) — en
+68. [We Bought A $1.7M Property With $0 Down](./transcripts/Chq8DNAZHRU.md) — en
