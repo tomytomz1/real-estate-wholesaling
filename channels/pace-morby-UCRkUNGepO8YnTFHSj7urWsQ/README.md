@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-19T17:01:15.725Z
+> Automatically updated: 2026-10-20T15:10:24.775Z
 
-68 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
+72 transcripts are available across 72 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -77,3 +77,7 @@ The archive checks for new uploads once every 24 hours.
 66. [Stop Renting Houses: Use This LLC Wrap Method](./transcripts/uvntSMvIg5E.md) — en
 67. [He Bought a $29M Property And You Can Too](./transcripts/T7TX92nO_Eg.md) — en
 68. [We Bought A $1.7M Property With $0 Down](./transcripts/Chq8DNAZHRU.md) — en
+69. [How To Get Nonprofits To Pay For Your Rent](./transcripts/Nztkdrv35ZY.md) — en
+70. [How To Buy Multifamily Real Estate Zero Down](./transcripts/gNbbxfZzeYw.md) — en
+71. [The Most Chaotic Real Estate Call On YouTube](./transcripts/iccSUXKXlG4.md) — en
+72. [Stop Self Sabotaging Your Real Estate Opportunities](./transcripts/OxZ1hqUqFhw.md) — en
