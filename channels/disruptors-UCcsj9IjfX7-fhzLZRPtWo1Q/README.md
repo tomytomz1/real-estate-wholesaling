@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-19T17:00:33.522Z
+> Automatically updated: 2026-10-20T15:09:24.800Z
 
-52 transcripts are available across 52 long-form videos. Each transcript is stored in its own readable Markdown file.
+56 transcripts are available across 56 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -61,3 +61,7 @@ The archive checks for new uploads once every 24 hours.
 50. [How Cameron Sold His 5 Companies For $100,000,000+](./transcripts/rlh3ycU4hPA.md) — en
 51. [Closing 400 Deals In A Year Getting 5X From 1 Marketing Channel](./transcripts/Je3C3NtjXLA.md) — en
 52. [How To Buy Thousands Of Houses If Your Life Depended on It](./transcripts/1uj8W0C9VFc.md) — en
+53. [How To Take Any New Idea To $10 Million A Year](./transcripts/L15gjaK-9UY.md) — en
+54. [The Secret To Where Trillions Of Dollars Is Hiding](./transcripts/1My6GxRig8A.md) — en
+55. [How Brandon Buys Real Estate With Credit Cards](./transcripts/QNkrjIJceYY.md) — en
+56. [From College Kicker To Multi Millionaire Entrepreneur](./transcripts/N8O_1wukEJ0.md) — en
