@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-19T17:00:55.124Z
+> Automatically updated: 2026-10-20T15:09:50.565Z
 
-51 transcripts are available across 51 long-form videos. Each transcript is stored in its own readable Markdown file.
+55 transcripts are available across 55 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -60,3 +60,7 @@ The archive checks for new uploads once every 24 hours.
 49. [How I Turned a $15,000 Wholesale Fee Into a $100,000 Payday](./transcripts/qYSzTvPqAYk.md) — en
 50. [The Ultimate AI Prompt Library for Wholesalers (Free Download)](./transcripts/oNpXsWasLlE.md) — en
 51. [House Flipping Profits Just Increased for the First Time in 2 Years](./transcripts/XUV0rxDspUY.md) — en
+52. [How To Wholesale Houses Like A Pro! (DEAL Breakdown)](./transcripts/JXH-q21YYB4.md) — en
+53. [How Beginners Are Getting Wholesale Deals (Using AI)](./transcripts/mCXhbzNjxZo.md) — en
+54. [Is Bird-Dogging Legal? The Truth Nobody Talks About](./transcripts/XcQAKSakohI.md) — en
+55. [This Wholesale Deal Failed (Then Made Me $10,293)](./transcripts/dolFTStkhio.md) — en
