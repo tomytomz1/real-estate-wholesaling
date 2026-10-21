@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-20T15:09:50.565Z
+> Automatically updated: 2026-10-21T15:20:40.514Z
 
-55 transcripts are available across 55 long-form videos. Each transcript is stored in its own readable Markdown file.
+59 transcripts are available across 59 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -64,3 +64,7 @@ The archive checks for new uploads once every 24 hours.
 53. [How Beginners Are Getting Wholesale Deals (Using AI)](./transcripts/mCXhbzNjxZo.md) — en
 54. [Is Bird-Dogging Legal? The Truth Nobody Talks About](./transcripts/XcQAKSakohI.md) — en
 55. [This Wholesale Deal Failed (Then Made Me $10,293)](./transcripts/dolFTStkhio.md) — en
+56. [Louisiana Just Changed Wholesaling (New Law Just Passed)](./transcripts/mcbq_L189dc.md) — en
+57. [Virtual Wholesaling Is Broken... Here's Why](./transcripts/izkbNt_BVOM.md) — en
+58. [20 Years Experience Closing Sellers Explained in 75 Minutes! (Jerry Norton Live) ](./transcripts/BYZwSLu6F-c.md) — en
+59. [If You're In Real Estate, Agritourism is The Next Big Thing](./transcripts/S5dqdQxrIM4.md) — en
