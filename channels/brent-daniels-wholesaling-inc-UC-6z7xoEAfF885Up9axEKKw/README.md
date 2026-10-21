@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-20T15:09:01.134Z
+> Automatically updated: 2026-10-21T15:19:39.774Z
 
-56 transcripts are available across 56 long-form videos. Each transcript is stored in its own readable Markdown file.
+60 transcripts are available across 60 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -65,3 +65,7 @@ The archive checks for new uploads once every 24 hours.
 54. [Top 10 Wholesaling Shifts Nobody’s Talking About (2026) | Winc. Podcast](./transcripts/rrqiJ9L1B68.md) — en
 55. [Why Virtual Wholesaling Gets MASSIVE Deals (Deal Breakdown) | Winc. Podcast](./transcripts/QnapTUiZYtc.md) — en
 56. [How VA's Made Me a Multi-Millionaire | Winc. Podcast](./transcripts/YNJHobFRhR8.md) — en
+57. [PPL Is Changing in 2026 — Here’s What You Must Know | Winc. Podcast](./transcripts/FwLXu64BB58.md) — en
+58. [AI Will NOT replace wholesalers - Wholesalers that use AI will replace those that don't | Winc. Pod](./transcripts/v0fDdL96vPM.md) — en
+59. [2026 Real Estate Bookkeeping Made EASY with Expert TIPS!! | Winc. Podcast](./transcripts/bjFUDwuMH8Q.md) — en
+60. ["How I Find Fire Damaged Lists" | Winc. Podcast](./transcripts/YK0LEi6Fxg4.md) — en
