@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-20T15:09:24.800Z
+> Automatically updated: 2026-10-21T15:20:11.511Z
 
-56 transcripts are available across 56 long-form videos. Each transcript is stored in its own readable Markdown file.
+60 transcripts are available across 60 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -65,3 +65,7 @@ The archive checks for new uploads once every 24 hours.
 54. [The Secret To Where Trillions Of Dollars Is Hiding](./transcripts/1My6GxRig8A.md) — en
 55. [How Brandon Buys Real Estate With Credit Cards](./transcripts/QNkrjIJceYY.md) — en
 56. [From College Kicker To Multi Millionaire Entrepreneur](./transcripts/N8O_1wukEJ0.md) — en
+57. [How Ari Page Helped Entrepreneurs Generate $2 Billion In Funding Instantly](./transcripts/m4VatoYq_io.md) — en
+58. [How Investors Use AI To Double Their Lead Flow](./transcripts/FZEDPJcGOsk.md) — en
+59. [From Wholesaling Deals to Funding Over $33 Million InReal Estate in Just 18 Months](./transcripts/1hsdCJ_gL8c.md) — en
+60. [How To Make Millions Working Part Time And Remotely](./transcripts/M7QEB_1pb9c.md) — en
