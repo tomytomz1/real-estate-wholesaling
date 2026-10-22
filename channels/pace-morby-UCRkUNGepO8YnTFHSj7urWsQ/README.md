@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-21T15:21:08.104Z
+> Automatically updated: 2026-10-22T15:21:41.506Z
 
-76 transcripts are available across 76 long-form videos. Each transcript is stored in its own readable Markdown file.
+80 transcripts are available across 80 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -85,3 +85,7 @@ The archive checks for new uploads once every 24 hours.
 74. [Buying Cash Flowing Businesses Zero Down](./transcripts/WRwY1H7vjXI.md) — en
 75. [How To Negotiate Creative Finance With Agents](./transcripts/BOf8m8AWVIM.md) — en
 76. [How To Fund Business Deals Without Your Own Cash](./transcripts/o-UumD8MGxw.md) — en
+77. [How To Build A Highly Profitable Co-Living House](./transcripts/JD1-xwiK0i0.md) — en
+78. [Investing In A 13 Bedroom Co-Living Property](./transcripts/90euZ75D_oo.md) — en
+79. [LIVE Seller Call on an RV Park using Seller Finance](./transcripts/B2YoNIhiZMM.md) — en
+80. [How To Profit From Historic Tax Credit Deals](./transcripts/cqUTp9NoB-8.md) — en
