@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-21T15:20:11.511Z
+> Automatically updated: 2026-10-22T15:20:31.944Z
 
-60 transcripts are available across 60 long-form videos. Each transcript is stored in its own readable Markdown file.
+64 transcripts are available across 64 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -69,3 +69,7 @@ The archive checks for new uploads once every 24 hours.
 58. [How Investors Use AI To Double Their Lead Flow](./transcripts/FZEDPJcGOsk.md) — en
 59. [From Wholesaling Deals to Funding Over $33 Million InReal Estate in Just 18 Months](./transcripts/1hsdCJ_gL8c.md) — en
 60. [How To Make Millions Working Part Time And Remotely](./transcripts/M7QEB_1pb9c.md) — en
+61. [How Jesse Went From Broke To Selling Batch Leads For 8 Figures](./transcripts/pFWeXdVMw9I.md) — en
+62. [Don’t Do This in a Down Market: How Drew Still Closes 8 Figures A Year](./transcripts/r1fCByNvNgk.md) — en
+63. [How Corey Reyment Generated Over $3MM In Wholesale Fees In A Tiny Market](./transcripts/KRLaleLU3dA.md) — en
+64. [From Homeless At 11 To Millionaire At 28](./transcripts/0gJ7_AGKLBw.md) — en
