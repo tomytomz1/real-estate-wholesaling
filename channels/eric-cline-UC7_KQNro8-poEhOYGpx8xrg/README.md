@@ -1,7 +1,7 @@
 # Eric Cline — Transcript Archive
 
 > Channel: https://www.youtube.com/@ericclineofficial
-> Automatically updated: 2026-10-15T15:12:04.292Z
+> Automatically updated: 2026-10-22T15:20:54.180Z
 
 69 transcripts are available across 70 long-form videos. Each transcript is stored in its own readable Markdown file.
 

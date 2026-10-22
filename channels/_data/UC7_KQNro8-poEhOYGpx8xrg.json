@@ -5,7 +5,7 @@
     "name": "Eric Cline",
     "url": "https://www.youtube.com/@ericclineofficial"
   },
-  "generatedAt": "2026-10-15T15:12:04.292Z",
+  "generatedAt": "2026-10-22T15:20:54.180Z",
   "videos": [
     {
       "videoId": "NnITVb9kDFY",
@@ -943,8 +943,9 @@
       "transcriptLanguage": null,
       "failureReason": "This video does not have transcripts available on YouTube.",
       "transcript": "",
-      "checkedAt": "2026-10-07T21:37:57.634Z",
-      "unavailableChecks": 2
+      "checkedAt": "2026-10-22T15:20:54.180Z",
+      "captionSelection": 2,
+      "unavailableChecks": 3
     },
     {
       "videoId": "kZlA_s4nh84",
