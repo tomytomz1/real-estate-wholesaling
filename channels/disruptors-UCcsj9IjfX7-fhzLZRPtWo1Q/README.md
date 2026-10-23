@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-22T15:20:31.944Z
+> Automatically updated: 2026-10-23T15:09:21.454Z
 
-64 transcripts are available across 64 long-form videos. Each transcript is stored in its own readable Markdown file.
+68 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -73,3 +73,7 @@ The archive checks for new uploads once every 24 hours.
 62. [Don’t Do This in a Down Market: How Drew Still Closes 8 Figures A Year](./transcripts/r1fCByNvNgk.md) — en
 63. [How Corey Reyment Generated Over $3MM In Wholesale Fees In A Tiny Market](./transcripts/KRLaleLU3dA.md) — en
 64. [From Homeless At 11 To Millionaire At 28](./transcripts/0gJ7_AGKLBw.md) — en
+65. [Pace Morby: You're Getting Left Behind If You're Not Doing This](./transcripts/8M03JwBB2_s.md) — en
+66. [Money Hacks: Going From 7-Figure Years To 7-Figure Months](./transcripts/ZHcz7oqGLmQ.md) — en
+67. [How To Get 0% Interest Business Credit Cards For Any Business](./transcripts/EfQM2-lmZZM.md) — en
+68. [Money Saving Hacks From Financial CPA Who Oversees $100s Of Millions Of Dollars](./transcripts/1d_jBGtqDs8.md) — en
