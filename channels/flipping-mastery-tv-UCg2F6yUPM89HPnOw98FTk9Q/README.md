@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-22T15:21:10.411Z
+> Automatically updated: 2026-10-23T15:09:43.623Z
 
-63 transcripts are available across 63 long-form videos. Each transcript is stored in its own readable Markdown file.
+67 transcripts are available across 67 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -72,3 +72,7 @@ The archive checks for new uploads once every 24 hours.
 61. [Wholesaling Rural Is Hard! Do This Instead](./transcripts/lnOFR_FZ7yA.md) — en
 62. [The Cheapest Seller Leads Available ANYWHERE! (WCL Updated)](./transcripts/a0nGEe0VDuI.md) — en
 63. [I Almost Lost This Deal Trying To Close On The Phone](./transcripts/JB69HRmDxpY.md) — en
+64. [The TRUTH About Wholesaling Direct-To-Agent](./transcripts/OT3uM5f7YvM.md) — en
+65. [WATCH ME Get A Listed Wholesale Deal In 10 Minutes!](./transcripts/-qYuYzeFq7Q.md) — en
+66. [How 3 Wholesalers Split a $44,000 Profit (Deal Breakdown)](./transcripts/yW_ChEx2Opw.md) — en
+67. [I Turned 3 Houses Into $5 Million (Without Flipping)](./transcripts/-BNkK6-Z8D0.md) — en
