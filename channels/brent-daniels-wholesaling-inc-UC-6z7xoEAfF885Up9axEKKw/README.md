@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-22T15:20:12.511Z
+> Automatically updated: 2026-10-23T15:09:04.766Z
 
-64 transcripts are available across 64 long-form videos. Each transcript is stored in its own readable Markdown file.
+68 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -73,3 +73,7 @@ The archive checks for new uploads once every 24 hours.
 62. [Does this guy REALLY make $20M a Year in Real Estate? | Winc. Podcast](./transcripts/vfhSYZY59Bo.md) — en
 63. ["How I make $20,000 a month Wholesaling Manufactured Homes" | Winc. Podcast](./transcripts/6icBe9MHWsg.md) — en
 64. [What I’d Do to Get a Wholesale Deal in the Next 30 Days | Winc. Podcast](./transcripts/zu58ULWS0ME.md) — en
+65. [7 Figure Wholesalers DON'T Want you to KNOW about this | Winc. Podcast](./transcripts/q67utl_NOAg.md) — en
+66. [This Will Change Your Mind About Wholesaling Real Estate | Winc. Podcast](./transcripts/9R2Mo_Z3-MY.md) — en
+67. [How A 19yr and 22yr old got 20 deals in 6 weeks.. | Winc. Podcast](./transcripts/PC4gyHqbXRw.md) — en
+68. [How To Average $50,000+ per deal!!! | Winc. Podcast](./transcripts/f2P0wrQcY84.md) — en
