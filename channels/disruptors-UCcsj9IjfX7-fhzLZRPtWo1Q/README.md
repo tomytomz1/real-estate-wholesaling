@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-23T15:09:21.454Z
+> Automatically updated: 2026-10-24T14:03:14.099Z
 
-68 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
+72 transcripts are available across 72 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -77,3 +77,7 @@ The archive checks for new uploads once every 24 hours.
 66. [Money Hacks: Going From 7-Figure Years To 7-Figure Months](./transcripts/ZHcz7oqGLmQ.md) — en
 67. [How To Get 0% Interest Business Credit Cards For Any Business](./transcripts/EfQM2-lmZZM.md) — en
 68. [Money Saving Hacks From Financial CPA Who Oversees $100s Of Millions Of Dollars](./transcripts/1d_jBGtqDs8.md) — en
+69. [How AI Is Changing Sales Forever](./transcripts/7knfJFKP61M.md) — en
+70. [How Ben Hoang Built A Million Dollar Marketing Agency While In High School](./transcripts/X6F6TS6eHlc.md) — en
+71. [How Adrian Hernandez Went From $350K As A Realtor To $7Million A Year As A Wholesaler](./transcripts/RxJ0mSeYBcQ.md) — en
+72. [From W2 Job To 200 Deals A Year To Mastering This Underrated Marketing Channel](./transcripts/vgMxOIbsMRQ.md) — en
