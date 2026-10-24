@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-23T15:09:04.766Z
+> Automatically updated: 2026-10-24T14:02:39.142Z
 
-68 transcripts are available across 68 long-form videos. Each transcript is stored in its own readable Markdown file.
+72 transcripts are available across 72 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -77,3 +77,7 @@ The archive checks for new uploads once every 24 hours.
 66. [This Will Change Your Mind About Wholesaling Real Estate | Winc. Podcast](./transcripts/9R2Mo_Z3-MY.md) — en
 67. [How A 19yr and 22yr old got 20 deals in 6 weeks.. | Winc. Podcast](./transcripts/PC4gyHqbXRw.md) — en
 68. [How To Average $50,000+ per deal!!! | Winc. Podcast](./transcripts/f2P0wrQcY84.md) — en
+69. [From $1 to $100,000… Here’s the Playbook](./transcripts/PMkXu-Z9S7E.md) — en
+70. [The Shift Happening In Real Estate (And How to Profit From It) | Winc. Podcast](./transcripts/yJCpITU8zRg.md) — en
+71. [How I Learned to Spot the Right Deals (And Avoid the Wrong Ones) | Winc. Podcast](./transcripts/bgEsK11aUWM.md) — en
+72. [Your First 90 Days Wholesaling Real Estate!](./transcripts/DGwW96Xr4aU.md) — en
