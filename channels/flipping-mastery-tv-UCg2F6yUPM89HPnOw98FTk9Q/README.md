@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-24T14:03:39.992Z
+> Automatically updated: 2026-10-25T14:26:07.798Z
 
-71 transcripts are available across 71 long-form videos. Each transcript is stored in its own readable Markdown file.
+75 transcripts are available across 75 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -80,3 +80,7 @@ The archive checks for new uploads once every 24 hours.
 69. [This AI System Finds Real Estate Deals For You! \[Detailed Training\]](./transcripts/6uC_03n-6cI.md) — en
 70. [How I Find Hidden Deals on Zillow (Before Anyone Else)](./transcripts/z3HQ0qgkakI.md) — en
 71. [My Proven Framework To Close Sellers (used on 10,000 calls)](./transcripts/2FC2RP7B-oo.md) — en
+72. [I Made $3,000 in 1 Hour Flipping This House (never saw it)](./transcripts/GZwvzjRdqbQ.md) — en
+73. [2026 Is Crushing Wholesalers - Here's Why Most Are Failing](./transcripts/Syi3OoGQi4A.md) — en
+74. [How To Get Agents To List Your Deals For ONLY 1%...](./transcripts/ZB-gEt6Rudc.md) — en
+75. [ONLY The Best Real Estate Investors Will Make it in 2026](./transcripts/7oSzPVuR9qM.md) — en
