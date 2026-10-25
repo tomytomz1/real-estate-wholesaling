@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-24T14:03:14.099Z
+> Automatically updated: 2026-10-25T14:25:32.907Z
 
-72 transcripts are available across 72 long-form videos. Each transcript is stored in its own readable Markdown file.
+76 transcripts are available across 76 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -81,3 +81,7 @@ The archive checks for new uploads once every 24 hours.
 70. [How Ben Hoang Built A Million Dollar Marketing Agency While In High School](./transcripts/X6F6TS6eHlc.md) — en
 71. [How Adrian Hernandez Went From $350K As A Realtor To $7Million A Year As A Wholesaler](./transcripts/RxJ0mSeYBcQ.md) — en
 72. [From W2 Job To 200 Deals A Year To Mastering This Underrated Marketing Channel](./transcripts/vgMxOIbsMRQ.md) — en
+73. [How To Run Two Million Dollar Companies With 6 Kids And Not Go CRAZY](./transcripts/5XuA6IBBWMg.md) — en
+74. [Why Tim Herriage Started a Lending Firm For Investors After 2,000+ Deals & $7Billion+ in Real Estate](./transcripts/ddFdNzwDp70.md) — en
+75. [Joe Theriault's Unbelievable Story From Homeless On The Street To Multi Millionaire Business Owner](./transcripts/c3biiM28di4.md) — en
+76. [How Matt Rostosky Earned $5MM In 2024 And Expects To Double It In 2025](./transcripts/0GJOHtx_QyQ.md) — en
