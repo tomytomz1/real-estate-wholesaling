@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-24T14:02:39.142Z
+> Automatically updated: 2026-10-25T14:25:16.109Z
 
-72 transcripts are available across 72 long-form videos. Each transcript is stored in its own readable Markdown file.
+76 transcripts are available across 76 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -81,3 +81,7 @@ The archive checks for new uploads once every 24 hours.
 70. [The Shift Happening In Real Estate (And How to Profit From It) | Winc. Podcast](./transcripts/yJCpITU8zRg.md) — en
 71. [How I Learned to Spot the Right Deals (And Avoid the Wrong Ones) | Winc. Podcast](./transcripts/bgEsK11aUWM.md) — en
 72. [Your First 90 Days Wholesaling Real Estate!](./transcripts/DGwW96Xr4aU.md) — en
+73. [I Tried Both Closing Methods… The Results Surprised Me | Winc. Podcast](./transcripts/jYRAzZSg-lk.md) — en
+74. [I Shouldn’t Be Sharing These Lead Sources… | Winc. Podcast](./transcripts/IEjETFG3rnw.md) — en
+75. [These Wholesale Leads Are Almost Unfair to Use | Winc. Podcast](./transcripts/EPUu_A28L60.md) — en
+76. [This AI That Could Replace Your Real Estate Marketing | Winc. Podcast](./transcripts/nMASwSccFMk.md) — en
