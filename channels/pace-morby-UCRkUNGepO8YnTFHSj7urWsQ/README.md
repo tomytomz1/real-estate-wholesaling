@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-24T14:04:12.024Z
+> Automatically updated: 2026-10-25T14:26:40.893Z
 
-88 transcripts are available across 88 long-form videos. Each transcript is stored in its own readable Markdown file.
+92 transcripts are available across 92 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -97,3 +97,7 @@ The archive checks for new uploads once every 24 hours.
 86. [How To Use Seller Finance In Real Estate Deals](./transcripts/w1wq3uZtNx8.md) — en
 87. [How to Buy Real Estate With No Money Down](./transcripts/904lA_6Bxp8.md) — en
 88. [Buying a Business - Seller Finance Explained](./transcripts/p0ukMOdzoAc.md) — en
+89. [How This Co-Living Deal Makes $8,000 a Month](./transcripts/sU1Pdq6Z1-4.md) — en
+90. [How to Properly Structure Creative Finance Deals](./transcripts/rQCg4GFRLAI.md) — en
+91. [How She Made $140,000 Just By Knocking on a Door](./transcripts/bZ-wyQmuNdI.md) — en
+92. [Co-Living Real Estate Investing - The Ultimate Cash Flow Strategy](./transcripts/dBOQXl6C1h0.md) — en
