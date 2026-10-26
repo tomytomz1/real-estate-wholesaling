@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-25T14:25:16.109Z
+> Automatically updated: 2026-10-26T16:49:28.150Z
 
-76 transcripts are available across 76 long-form videos. Each transcript is stored in its own readable Markdown file.
+80 transcripts are available across 80 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -85,3 +85,7 @@ The archive checks for new uploads once every 24 hours.
 74. [I Shouldn’t Be Sharing These Lead Sources… | Winc. Podcast](./transcripts/IEjETFG3rnw.md) — en
 75. [These Wholesale Leads Are Almost Unfair to Use | Winc. Podcast](./transcripts/EPUu_A28L60.md) — en
 76. [This AI That Could Replace Your Real Estate Marketing | Winc. Podcast](./transcripts/nMASwSccFMk.md) — en
+77. [Step by Step How to Fill Out a Real Estate Contract](./transcripts/zxxPoBG3oSQ.md) — en
+78. [EXPLODE Your CASH BUYER Database](./transcripts/fbjgJrF6qIQ.md) — en
+79. [This is How You Close Wholesale Deals With Other People’s Money | Winc. Podcast](./transcripts/POrSWCUm6GI.md) — en
+80. [13 Years of Brutally Honest Wholesaling Advice In 13 Minutes](./transcripts/lqIcR3mKrTk.md) — en
