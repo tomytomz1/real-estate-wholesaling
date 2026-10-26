@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-25T14:26:40.893Z
+> Automatically updated: 2026-10-26T16:50:51.498Z
 
-92 transcripts are available across 92 long-form videos. Each transcript is stored in its own readable Markdown file.
+96 transcripts are available across 96 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -101,3 +101,7 @@ The archive checks for new uploads once every 24 hours.
 90. [How to Properly Structure Creative Finance Deals](./transcripts/rQCg4GFRLAI.md) — en
 91. [How She Made $140,000 Just By Knocking on a Door](./transcripts/bZ-wyQmuNdI.md) — en
 92. [Co-Living Real Estate Investing - The Ultimate Cash Flow Strategy](./transcripts/dBOQXl6C1h0.md) — en
+93. [Why I Tell Beginners To Only Call Expired Listings](./transcripts/56nMkH3y8K4.md) — en
+94. [I Will Fund Your Real Estate Deals (And Do The Paperwork)](./transcripts/_YIQ42pcTmI.md) — en
+95. [Buying Condemned Houses - Subject To Real Estate Deal](./transcripts/LuXBSl28OrQ.md) — en
+96. [Savannah Georgia Short-Term Rental Gold Mine](./transcripts/tAMt1wDu3b8.md) — en
