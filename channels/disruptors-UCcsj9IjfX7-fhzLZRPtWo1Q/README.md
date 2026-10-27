@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-26T16:50:04.891Z
+> Automatically updated: 2026-10-27T15:55:08.937Z
 
-80 transcripts are available across 80 long-form videos. Each transcript is stored in its own readable Markdown file.
+84 transcripts are available across 84 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -89,3 +89,7 @@ The archive checks for new uploads once every 24 hours.
 78. [Ian Ross Shares Sales Secrets That You've Never Heard Of](./transcripts/l3LyK_ZHIDc.md) — en
 79. [How Robert Wensley Bet His Entire Company InvestorLift On An AI Algorithm](./transcripts/6w31cwrBnqU.md) — en
 80. [How to Go From Owning Nothing To Owning 200 Rentals In Under 3 Years](./transcripts/I6urQYk6kd4.md) — en
+81. [How To Find 1000s Of New Foreclosures EVERY SINGLE DAY](./transcripts/7ipaXL7M5Yc.md) — en
+82. [The Most Successful House Buyers Spend $1,000,000+ per Month on This](./transcripts/lLXt_5Opq1U.md) — en
+83. [What The Wealthy And Banks Know That You Don't](./transcripts/tK6Ilf-icoM.md) — en
+84. [The 7 Podcast Episodes You Must Watch For 2025](./transcripts/yZYuBe05Kx4.md) — en
