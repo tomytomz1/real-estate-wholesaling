@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-26T16:50:28.055Z
+> Automatically updated: 2026-10-27T15:55:40.507Z
 
-79 transcripts are available across 79 long-form videos. Each transcript is stored in its own readable Markdown file.
+83 transcripts are available across 83 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -88,3 +88,7 @@ The archive checks for new uploads once every 24 hours.
 77. [This Is Why You Suck At Wholesaling...\[LIVE Deal Breakdown\]](./transcripts/0ZpH99asg1I.md) — en
 78. [How To Wholesale Houses Like A Pro! \[Deal Breakdown\] ](./transcripts/ibtshO5ZeQ8.md) — en
 79. [What It Takes To Do BIG Deals in Real Estate w/ Pace Morby](./transcripts/Z7XYjVEO8HM.md) — en
+80. [How To Make $10,000 Wholesaling Houses - LIVE Deal Breakdown](./transcripts/3cyHqwXEJ3E.md) — en
+81. [Exactly How to Get Your First Wholesale Deal (no real estate experience required)](./transcripts/l37-Zg2dB-w.md) — en
+82. [How Agents Are Getting 10 Listing Leads Per Week (Done For You)](./transcripts/pq9w7afmWgM.md) — en
+83. [I Stole A Deal From A Bad Wholesaler (Tulsa, OK)](./transcripts/35w9wO-2ia0.md) — en
