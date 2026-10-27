@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-26T16:50:51.498Z
+> Automatically updated: 2026-10-27T15:56:04.706Z
 
-96 transcripts are available across 96 long-form videos. Each transcript is stored in its own readable Markdown file.
+100 transcripts are available across 100 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -105,3 +105,7 @@ The archive checks for new uploads once every 24 hours.
 94. [I Will Fund Your Real Estate Deals (And Do The Paperwork)](./transcripts/_YIQ42pcTmI.md) — en
 95. [Buying Condemned Houses - Subject To Real Estate Deal](./transcripts/LuXBSl28OrQ.md) — en
 96. [Savannah Georgia Short-Term Rental Gold Mine](./transcripts/tAMt1wDu3b8.md) — en
+97. [The First 3 Things I’d Do if I Started Real Estate Today](./transcripts/-_L0MBjf8SU.md) — en
+98. [Real Estate Negotiation - How to Buy Houses at 0% Interest](./transcripts/XpjvOxZ4_aA.md) — en
+99. [4 Creative Strategies Layered Into One Massive Deal](./transcripts/k6SVNwoQTLo.md) — en
+100. [She Was Homeless For 4 Years Now She's a Real Estate Investor (FULL SERIES)](./transcripts/qJ7qgZaSVPg.md) — en
