@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-26T16:49:28.150Z
+> Automatically updated: 2026-10-27T15:54:47.214Z
 
-80 transcripts are available across 80 long-form videos. Each transcript is stored in its own readable Markdown file.
+84 transcripts are available across 84 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -89,3 +89,7 @@ The archive checks for new uploads once every 24 hours.
 78. [EXPLODE Your CASH BUYER Database](./transcripts/fbjgJrF6qIQ.md) — en
 79. [This is How You Close Wholesale Deals With Other People’s Money | Winc. Podcast](./transcripts/POrSWCUm6GI.md) — en
 80. [13 Years of Brutally Honest Wholesaling Advice In 13 Minutes](./transcripts/lqIcR3mKrTk.md) — en
+81. [Why I Close More Deals Than 90% of Real Estate Wholesalers (giving everything away) | Winc. Podcast](./transcripts/xEMkBY879_8.md) — en
+82. [Talking to a Real Estate Wholesaler Making $12M a Year… Here’s What I Found Out | Winc. Podcast](./transcripts/f9YN4_M3N-U.md) — en
+83. [I Started Using These Scripts… Now I Can’t Miss a Deal | Winc. Podcast](./transcripts/L1jTH6Fbx4k.md) — en
+84. [Wholesalers: if you're not earning $100K, please watch this | Winc. Podcast](./transcripts/Q9HRMMNzChM.md) — en
