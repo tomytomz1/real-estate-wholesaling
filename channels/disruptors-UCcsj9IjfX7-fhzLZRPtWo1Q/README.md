@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-27T15:55:08.937Z
+> Automatically updated: 2026-10-28T16:42:30.581Z
 
-84 transcripts are available across 84 long-form videos. Each transcript is stored in its own readable Markdown file.
+88 transcripts are available across 88 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -93,3 +93,7 @@ The archive checks for new uploads once every 24 hours.
 82. [The Most Successful House Buyers Spend $1,000,000+ per Month on This](./transcripts/lLXt_5Opq1U.md) — en
 83. [What The Wealthy And Banks Know That You Don't](./transcripts/tK6Ilf-icoM.md) — en
 84. [The 7 Podcast Episodes You Must Watch For 2025](./transcripts/yZYuBe05Kx4.md) — en
+85. [Matt Andrews Shares The Secrets To Building Multiple Million Dollar Companies](./transcripts/qZfO9xaC8-k.md) — en
+86. [How Santini Lancioni Doubled His Profits to $6.5MM Dollars in 2024](./transcripts/lXjXYIdFDAo.md) — en
+87. [The 5 Failures You Must Avoid  In Real Estate (#5 Cost Me $1.2 Million Dollars!!)](./transcripts/Z-DPHxHM1ZE.md) — en
+88. [How To Make 7 Figures A Year In Any Business](./transcripts/JEYaRBITFz0.md) — en
