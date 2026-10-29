@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-28T16:42:30.581Z
+> Automatically updated: 2026-10-29T16:58:15.453Z
 
-88 transcripts are available across 88 long-form videos. Each transcript is stored in its own readable Markdown file.
+92 transcripts are available across 92 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -97,3 +97,7 @@ The archive checks for new uploads once every 24 hours.
 86. [How Santini Lancioni Doubled His Profits to $6.5MM Dollars in 2024](./transcripts/lXjXYIdFDAo.md) — en
 87. [The 5 Failures You Must Avoid  In Real Estate (#5 Cost Me $1.2 Million Dollars!!)](./transcripts/Z-DPHxHM1ZE.md) — en
 88. [How To Make 7 Figures A Year In Any Business](./transcripts/JEYaRBITFz0.md) — en
+89. [How Jon Burgher Is Getting Mailbox Money From 17 States](./transcripts/wKYYUxy9cC4.md) — en
+90. [How They've Earned Multiple 7 Figures Investing In Mobile Homes](./transcripts/Q4ZaOnEIb7I.md) — en
+91. [How William Denis is Buying 5-7 Properties Every Day](./transcripts/cV-Gjm4DL7Y.md) — en
+92. [How Ben Toaff Scaled to $5MM in Assignment Fees Per Year Despite Bidenomics](./transcripts/vJ1xG3oTI4s.md) — en
