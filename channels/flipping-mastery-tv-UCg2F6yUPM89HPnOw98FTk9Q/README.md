@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-28T16:42:59.677Z
+> Automatically updated: 2026-10-29T16:58:37.415Z
 
-87 transcripts are available across 87 long-form videos. Each transcript is stored in its own readable Markdown file.
+91 transcripts are available across 91 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -96,3 +96,7 @@ The archive checks for new uploads once every 24 hours.
 85. [Calling Sellers LIVE for 90 Minutes | Teaching My Son How to Wholesale](./transcripts/WEJF2HBMgCY.md) — en
 86. [Watch Me Negotiate With A Rude Seller Who Hates Flippers](./transcripts/Jd6bPS6MBtI.md) — en
 87. [Teaching My Son How To Wholesale - LIVE Seller Call (Mexico, MO)](./transcripts/Jpk5WSx3YG8.md) — en
+88. [This Is Better Than Wholesaling... (Double The Profit!)](./transcripts/YiNU62GtJy8.md) — en
+89. [How To Wholesale Houses - Deal Breakdown Tulsa, OK](./transcripts/0-u0oBgKY5c.md) — en
+90. [NEW 2026 Wholesale DOUBLE CLOSE Contract (Nationwide Compliant) | Part 3](./transcripts/46RWL1soCuk.md) — en
+91. [NEW 2026 Wholesale ASSIGNMENT Contract (Nationwide Compliant) | Part 2](./transcripts/lSVmu2OOFw0.md) — en
