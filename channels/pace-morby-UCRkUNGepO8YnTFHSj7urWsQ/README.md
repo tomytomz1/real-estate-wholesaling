@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-29T16:59:03.015Z
+> Automatically updated: 2026-10-30T16:44:33.206Z
 
-108 transcripts are available across 108 long-form videos. Each transcript is stored in its own readable Markdown file.
+112 transcripts are available across 112 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -117,3 +117,7 @@ The archive checks for new uploads once every 24 hours.
 106. [Real Estate Flipping - Fast $200K Probate Deal](./transcripts/oh9qNedpvNI.md) — en
 107. [Watch Me Make $1,600,000 in 10 Minutes (Easy Gator Method Strategies)](./transcripts/YUatFporWBs.md) — en
 108. [How a $42K Teacher Made $40K on One Real Estate Deal](./transcripts/KCiQCSCaDCg.md) — en
+109. [How a Scam Tenant Made Him $400,000](./transcripts/lF7mKPt70wY.md) — en
+110. [AI For Entrepreneurs - Secret Strategy With Dean Graziosi](./transcripts/U-oP98NNMSU.md) — en
+111. [I Bought a Trailer Park With $0 Down | Here's How](./transcripts/d1lh4nPOoTE.md) — en
+112. [Mobile Home Park Investing - Secret To Fast Wealth](./transcripts/dh0pxcCu8nc.md) — en
