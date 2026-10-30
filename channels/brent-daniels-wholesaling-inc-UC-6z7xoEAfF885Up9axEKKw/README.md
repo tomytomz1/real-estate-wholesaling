@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-29T16:57:49.841Z
+> Automatically updated: 2026-10-30T16:43:23.980Z
 
-92 transcripts are available across 92 long-form videos. Each transcript is stored in its own readable Markdown file.
+96 transcripts are available across 96 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -101,3 +101,7 @@ The archive checks for new uploads once every 24 hours.
 90. [Step By Step How To Wholesale Multi-Family | Winc. Podcast](./transcripts/Z1Gd7VcOcJ4.md) — en
 91. [5 Steps To Wholesale Pre-Foreclosures In 2025 | Winc. Podcast](./transcripts/-LNzr6-IPqA.md) — en
 92. [How This 25 Year Old Is Making Millions Wholesaling Real Estate | $115K Deal](./transcripts/qx1obhW3MoM.md) — en
+93. [How to literally force people to talk to you.. | Cold Call Breakdown](./transcripts/UOfPq07IfM0.md) — en
+94. [New Wholesaler Closes His First MASSIVE DEAL | Winc. Podcast](./transcripts/XAlbpTpq6JA.md) — en
+95. [He Made $20K Virtually 6,000 Miles Away: His First Wholesale Deal | Winc. Podcast](./transcripts/Ausi9R2SFAg.md) — en
+96. [Find a CASH Buyer Anywhere! (Training Breakdown)](./transcripts/U6sRf6VCnXQ.md) — en
