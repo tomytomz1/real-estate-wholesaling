@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-29T16:58:15.453Z
+> Automatically updated: 2026-10-30T16:43:40.634Z
 
-92 transcripts are available across 92 long-form videos. Each transcript is stored in its own readable Markdown file.
+96 transcripts are available across 96 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -101,3 +101,7 @@ The archive checks for new uploads once every 24 hours.
 90. [How They've Earned Multiple 7 Figures Investing In Mobile Homes](./transcripts/Q4ZaOnEIb7I.md) — en
 91. [How William Denis is Buying 5-7 Properties Every Day](./transcripts/cV-Gjm4DL7Y.md) — en
 92. [How Ben Toaff Scaled to $5MM in Assignment Fees Per Year Despite Bidenomics](./transcripts/vJ1xG3oTI4s.md) — en
+93. [How To Find Rockstar Talent For Your Business In 2025](./transcripts/xlOOCul8PDI.md) — en
+94. [How to Wholesale 15 to 20,000 Houses a Year](./transcripts/_fGECFD1cQA.md) — en
+95. [Why your sellers might be bouncing from you](./transcripts/e4GKiqXS_AA.md) — en
+96. [From Serving Tables to Flipping Hundreds of Houses](./transcripts/J2GYvytsJ2I.md) — en
