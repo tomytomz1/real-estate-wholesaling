@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-29T16:58:37.415Z
+> Automatically updated: 2026-10-30T16:44:04.549Z
 
-91 transcripts are available across 91 long-form videos. Each transcript is stored in its own readable Markdown file.
+95 transcripts are available across 95 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -100,3 +100,7 @@ The archive checks for new uploads once every 24 hours.
 89. [How To Wholesale Houses - Deal Breakdown Tulsa, OK](./transcripts/0-u0oBgKY5c.md) — en
 90. [NEW 2026 Wholesale DOUBLE CLOSE Contract (Nationwide Compliant) | Part 3](./transcripts/46RWL1soCuk.md) — en
 91. [NEW 2026 Wholesale ASSIGNMENT Contract (Nationwide Compliant) | Part 2](./transcripts/lSVmu2OOFw0.md) — en
+92. [NEW 2026 Wholesale PURCHASE Contract (Nationwide Compliant) | Part 1](./transcripts/Tij28RaIMgg.md) — en
+93. [Wholesaling $0 to $100k Masterclass - Step 7: Scaling Past $100k](./transcripts/4J8QvpR69Zw.md) — en
+94. [Wholesaling $0 to $100k Masterclass - Step 6: Finding A Cash Buyer (Dispo)](./transcripts/wmVN4xtrxDw.md) — en
+95. [Wholesaling $0 to $100k Masterclass - Step 5: Due Diligence Process](./transcripts/jcg5d6sEam0.md) — en
