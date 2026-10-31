@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-30T16:43:40.634Z
+> Automatically updated: 2026-10-31T15:46:36.518Z
 
-96 transcripts are available across 96 long-form videos. Each transcript is stored in its own readable Markdown file.
+100 transcripts are available across 100 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -105,3 +105,7 @@ The archive checks for new uploads once every 24 hours.
 94. [How to Wholesale 15 to 20,000 Houses a Year](./transcripts/_fGECFD1cQA.md) — en
 95. [Why your sellers might be bouncing from you](./transcripts/e4GKiqXS_AA.md) — en
 96. [From Serving Tables to Flipping Hundreds of Houses](./transcripts/J2GYvytsJ2I.md) — en
+97. [What Real Estate Investors Get Wrong And How It's Costing Them Everything](./transcripts/pNTVZk8Z7gw.md) — en
+98. [The One Industry Secret That Nobody Wants to Talk About](./transcripts/h9e-cir-jhA.md) — en
+99. [How Victor Heredia Went From Selling Bananas in Mexico to Selling Portfolios to Hedge Funds](./transcripts/pjBVSob52ys.md) — en
+100. [How to Build a Remote Business in 2024](./transcripts/CLm61_SX1bg.md) — en
