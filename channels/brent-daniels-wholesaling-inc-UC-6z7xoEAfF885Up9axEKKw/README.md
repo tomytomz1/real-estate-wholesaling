@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-30T16:43:23.980Z
+> Automatically updated: 2026-10-31T15:46:12.806Z
 
-96 transcripts are available across 96 long-form videos. Each transcript is stored in its own readable Markdown file.
+100 transcripts are available across 100 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -105,3 +105,7 @@ The archive checks for new uploads once every 24 hours.
 94. [New Wholesaler Closes His First MASSIVE DEAL | Winc. Podcast](./transcripts/XAlbpTpq6JA.md) — en
 95. [He Made $20K Virtually 6,000 Miles Away: His First Wholesale Deal | Winc. Podcast](./transcripts/Ausi9R2SFAg.md) — en
 96. [Find a CASH Buyer Anywhere! (Training Breakdown)](./transcripts/U6sRf6VCnXQ.md) — en
+97. [He made $1.2M In 1 Year Wholesaling Real Estate.. | Winc Podcast](./transcripts/3uqatSmuwwA.md) — en
+98. [These 20 Year Olds Did 31 Deals In 1 Year While Still In School | Wholesaling Inc. Podcast](./transcripts/RBLkzZjkFAM.md) — en
+99. [540 Wholesale Real Estate Deals In 12 Months | Blueprint Breakdown](./transcripts/kFeKorwYP7c.md) — en
+100. [How To CLOSE Deals WITHOUT STEPPING FOOT In The HOUSE!](./transcripts/FxrQSR3AYiw.md) — en
