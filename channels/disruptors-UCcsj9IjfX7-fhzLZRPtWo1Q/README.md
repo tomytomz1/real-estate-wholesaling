@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-10-31T15:46:36.518Z
+> Automatically updated: 2026-11-01T16:50:27.810Z
 
-100 transcripts are available across 100 long-form videos. Each transcript is stored in its own readable Markdown file.
+104 transcripts are available across 104 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -109,3 +109,7 @@ The archive checks for new uploads once every 24 hours.
 98. [The One Industry Secret That Nobody Wants to Talk About](./transcripts/h9e-cir-jhA.md) — en
 99. [How Victor Heredia Went From Selling Bananas in Mexico to Selling Portfolios to Hedge Funds](./transcripts/pjBVSob52ys.md) — en
 100. [How to Build a Remote Business in 2024](./transcripts/CLm61_SX1bg.md) — en
+101. [How He Went From Serving at Church to Building Multiple 7 Figure Businesses](./transcripts/84ferQczB3o.md) — en
+102. [How to Run Your Business During the Presidential Elections](./transcripts/Ji18k7Fluwg.md) — en
+103. [What it takes to be great](./transcripts/8QX4s8XfLnc.md) — en
+104. [Co-Author of Rich Dad Poor Dad Explains How To Create Generational Wealth](./transcripts/aNpsEvdMzb0.md) — en
