@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-10-31T15:47:33.137Z
+> Automatically updated: 2026-11-01T16:51:32.587Z
 
-116 transcripts are available across 116 long-form videos. Each transcript is stored in its own readable Markdown file.
+120 transcripts are available across 120 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -125,3 +125,7 @@ The archive checks for new uploads once every 24 hours.
 114. [If I Started Over in Real Estate - I’d Do This](./transcripts/9Gt_ZEhrH84.md) — en
 115. [How To Invest In Hawaii The RIGHT Way](./transcripts/4WADKGBvRaw.md) — en
 116. [Why Jerry Norton is Betting Millions on Puerto Rico Real Estate](./transcripts/oTfSnR6Zuaw.md) — en
+117. [How To Get Over Asking Price on ANY Home](./transcripts/MzyucHdqM0o.md) — en
+118. [Don't Try to Fix and Flip. Do THIS Instead](./transcripts/haGVL4y-kko.md) — en
+119. [This Negotiation Trick Calms Frustrated Sellers... 🤫](./transcripts/tEBS6zHfvDg.md) — en
+120. [How this 12 Bedroom Co-Living House Prints Cash](./transcripts/5qAM3AEN_ww.md) — en
