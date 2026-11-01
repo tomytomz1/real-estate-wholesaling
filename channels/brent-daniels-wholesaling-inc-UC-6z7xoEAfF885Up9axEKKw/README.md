@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-10-31T15:46:12.806Z
+> Automatically updated: 2026-11-01T16:50:07.954Z
 
-100 transcripts are available across 100 long-form videos. Each transcript is stored in its own readable Markdown file.
+104 transcripts are available across 104 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -109,3 +109,7 @@ The archive checks for new uploads once every 24 hours.
 98. [These 20 Year Olds Did 31 Deals In 1 Year While Still In School | Wholesaling Inc. Podcast](./transcripts/RBLkzZjkFAM.md) — en
 99. [540 Wholesale Real Estate Deals In 12 Months | Blueprint Breakdown](./transcripts/kFeKorwYP7c.md) — en
 100. [How To CLOSE Deals WITHOUT STEPPING FOOT In The HOUSE!](./transcripts/FxrQSR3AYiw.md) — en
+101. [How To Wholesale Commercial Real Estate | Wholesaling Inc. Podcast](./transcripts/e2eNdjEREWc.md) — en
+102. [Are YOU A Smart Real Estate Wholesaler? (FREE COURSE)](./transcripts/xRs5gg9w1w8.md) — en
+103. [18 Days To First Wholesale Deal | Wholesaling Inc Podcast](./transcripts/lfF4Sk2InM4.md) — en
+104. [What It Actually Takes To Profit $10,000 Monthly | Wholesaling Inc. Podcast](./transcripts/OcD1-U0gEcA.md) — en
