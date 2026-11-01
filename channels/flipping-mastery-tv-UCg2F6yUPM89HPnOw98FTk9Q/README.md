@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-10-31T15:47:15.466Z
+> Automatically updated: 2026-11-01T16:50:58.691Z
 
-99 transcripts are available across 99 long-form videos. Each transcript is stored in its own readable Markdown file.
+103 transcripts are available across 103 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -108,3 +108,7 @@ The archive checks for new uploads once every 24 hours.
 97. [Wholesaling $0 to $100k Masterclass - Step 4: Underwriting Deals](./transcripts/Sl9ZUuG-0lU.md) — en
 98. [Wholesaling $0 to $100k Masterclass - Step 3: Follow A Sales Process](./transcripts/ugIy3vNbONY.md) — en
 99. [Wholesaling $0 to $100k Masterclass - Step 2: Choose Your Lead Source](./transcripts/6bDkQGO4B9Q.md) — en
+100. [Wholesaling $0 to $100k Masterclass - Step 1: Choose Your Market](./transcripts/44fReSW9Ymo.md) — en
+101. [Connecticut’s New Wholesale Regulation EXPLAINED (Registration Required!)](./transcripts/k5I-AU5YVPs.md) — en
+102. [Alabama's Wholesale Regulation EXPLAINED (2 different laws)](./transcripts/PSJJfDgSgts.md) — en
+103. [The 2026 Comping Guidelines - Expert Training From The CompGoat @Jamil Damji](./transcripts/JQQCoUEmA7Y.md) — en
