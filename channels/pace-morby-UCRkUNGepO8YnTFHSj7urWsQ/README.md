@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-01T16:51:32.587Z
+> Automatically updated: 2026-11-02T20:25:52.512Z
 
-120 transcripts are available across 120 long-form videos. Each transcript is stored in its own readable Markdown file.
+124 transcripts are available across 124 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -129,3 +129,7 @@ The archive checks for new uploads once every 24 hours.
 118. [Don't Try to Fix and Flip. Do THIS Instead](./transcripts/haGVL4y-kko.md) — en
 119. [This Negotiation Trick Calms Frustrated Sellers... 🤫](./transcripts/tEBS6zHfvDg.md) — en
 120. [How this 12 Bedroom Co-Living House Prints Cash](./transcripts/5qAM3AEN_ww.md) — en
+121. [Closing a 10-Property Portfolio with Creative Finance](./transcripts/W9JuzvUKfyM.md) — en
+122. [How This House Turned Into a Cash Flow Machine](./transcripts/gtEQhxaLtes.md) — en
+123. [This Will Blow Up Your Business in 90 Days](./transcripts/fXqBnYqmNEM.md) — en
+124. [The Fastest Way to Grow a Real Estate Portfolio](./transcripts/CcsuAvwbEyc.md) — en
