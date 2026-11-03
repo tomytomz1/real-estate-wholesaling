@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-02T20:25:22.006Z
+> Automatically updated: 2026-11-03T17:53:53.515Z
 
-107 transcripts are available across 107 long-form videos. Each transcript is stored in its own readable Markdown file.
+111 transcripts are available across 111 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -116,3 +116,7 @@ The archive checks for new uploads once every 24 hours.
 105. [10 Steps To Close Sellers \[Detailed Training\]](./transcripts/Ny9w4NJUe3E.md) — en
 106. [EXACTLY How Martin Made An $18,600 Wholesale Profit!](./transcripts/he6c0KLKpuI.md) — en
 107. [How To ACTUALLY Build A Successful Real Estate Business w/ Tony Mont](./transcripts/6oIpqNQRGOM.md) — en
+108. [How To Get MORE Wholesale Deals To The Closing Table - w/David Olds](./transcripts/HtT2xD5BcDE.md) — en
+109. [Watch Me Make A Subject-To Offer To A Seller (LIVE CALL)](./transcripts/Qo99Bh9ehqo.md) — en
+110. [Watch Me Overcome Common Seller Objections (LIVE CALL)](./transcripts/b65j7oZKkk8.md) — en
+111. [How Hieu did $1,700,000 in 2025 Wholesaling With Agents!](./transcripts/ibiby95Pb3M.md) — en
