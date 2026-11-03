@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-02T20:24:21.635Z
+> Automatically updated: 2026-11-03T17:53:25.429Z
 
-108 transcripts are available across 108 long-form videos. Each transcript is stored in its own readable Markdown file.
+112 transcripts are available across 112 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -117,3 +117,7 @@ The archive checks for new uploads once every 24 hours.
 106. [How To Use Money To Defeat Real Estate Laws](./transcripts/pzVZaLE79nc.md) — en
 107. [How He Added $300k In 3 Months Using AI](./transcripts/dTRlNsMqGDo.md) — en
 108. [Why Most Businesses Fail And How To Avoid It](./transcripts/AWN6e5azMZ8.md) — en
+109. [How He Generates Over A Million Dollars In Real Estate Leads A Month](./transcripts/DfCWUWBc9Rw.md) — en
+110. [How He Generated $500K in Wholesale Real Estate at 21 Years Old](./transcripts/s4-AiWqxHzs.md) — en
+111. [How He's Bought And Sold $5 Million Dollars Worth Of Land](./transcripts/p8CYrGT5WSc.md) — en
+112. [How Ryan Pineda Took Over Social Media](./transcripts/knLOlZ-2OLM.md) — en
