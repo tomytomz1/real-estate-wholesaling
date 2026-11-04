@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-03T17:53:25.429Z
+> Automatically updated: 2026-11-04T18:02:45.769Z
 
-112 transcripts are available across 112 long-form videos. Each transcript is stored in its own readable Markdown file.
+116 transcripts are available across 116 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -121,3 +121,7 @@ The archive checks for new uploads once every 24 hours.
 110. [How He Generated $500K in Wholesale Real Estate at 21 Years Old](./transcripts/s4-AiWqxHzs.md) — en
 111. [How He's Bought And Sold $5 Million Dollars Worth Of Land](./transcripts/p8CYrGT5WSc.md) — en
 112. [How Ryan Pineda Took Over Social Media](./transcripts/knLOlZ-2OLM.md) — en
+113. [How Learning Sales Can Change Your Life](./transcripts/nLXrHvYTDgc.md) — en
+114. [How Millionaire Real Estate Investors Use PPC Differently](./transcripts/_c6pwU92FUo.md) — en
+115. [How Andrew's Generating 3,500 SEO Leads Every Month](./transcripts/A91c2rLw3GE.md) — en
+116. [Here's the Secrets to PPC the Experts Don't Want you to Know](./transcripts/g_8YaZci4yc.md) — en
