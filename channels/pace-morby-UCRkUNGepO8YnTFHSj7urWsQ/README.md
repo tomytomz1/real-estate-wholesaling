@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-03T17:54:29.693Z
+> Automatically updated: 2026-11-04T18:03:48.640Z
 
-128 transcripts are available across 128 long-form videos. Each transcript is stored in its own readable Markdown file.
+132 transcripts are available across 132 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -137,3 +137,7 @@ The archive checks for new uploads once every 24 hours.
 126. [Your Life Is Determined By These 3 Choices](./transcripts/j2OYsscujws.md) — en
 127. [The Most Powerful Asset Class Right Now](./transcripts/ZAyhSmdBlUo.md) — en
 128. [Can You Replace Your 9–5 With Private Money Lending?](./transcripts/pWyy8qqZobI.md) — en
+129. [The Million Dollar Skill Nobody Talks About](./transcripts/owXhXfu8jFY.md) — en
+130. [Real Estate Investing Advice for 2026](./transcripts/lFAlFYRPf_E.md) — en
+131. [You’re Too Old to Wholesale (Here’s Why)](./transcripts/8s6bbh92w2Q.md) — en
+132. [This Rental Niche Makes Insurance Pay You](./transcripts/k__jNc_p3yg.md) — en
