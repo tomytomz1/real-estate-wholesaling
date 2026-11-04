@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-03T17:53:02.719Z
+> Automatically updated: 2026-11-04T18:02:29.558Z
 
-112 transcripts are available across 112 long-form videos. Each transcript is stored in its own readable Markdown file.
+116 transcripts are available across 116 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -121,3 +121,7 @@ The archive checks for new uploads once every 24 hours.
 110. [If you haven’t done $1,000,000 In Real Estate Here’s Why...](./transcripts/BKEtpeOeHFA.md) — en
 111. [Anyone Can Turn $1,000 Into $45,000 Doing This…  | Wholesaling Real Estate](./transcripts/oVH5Hb64TrQ.md) — en
 112. [VIRTUAL WHOLESALING IS DEAD…](./transcripts/qoz4nLzkRXc.md) — en
+113. [Turning $500 Into $10,000 In 2025](./transcripts/pDzYBQ4q6ws.md) — en
+114. [How To Make $10,000 More Per Deal In 2025 | Wholesaling Real Estate](./transcripts/e98bZd5_NWc.md) — en
+115. [Don’t Hire a VA cold caller in 2025 before watching this..](./transcripts/ExXsyFfDfMQ.md) — en
+116. [Rich Dad's Guide: Your First Real Estate Deal](./transcripts/BS-gPtCqt2U.md) — en
