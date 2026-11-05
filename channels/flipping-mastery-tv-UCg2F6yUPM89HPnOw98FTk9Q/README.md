@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-04T18:03:24.786Z
+> Automatically updated: 2026-11-05T18:06:30.744Z
 
-115 transcripts are available across 115 long-form videos. Each transcript is stored in its own readable Markdown file.
+119 transcripts are available across 119 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -124,3 +124,7 @@ The archive checks for new uploads once every 24 hours.
 113. [WATCH ME Call Live & Close This Seller For Less Than Half of Zillow!](./transcripts/dzbwrJg-C94.md) — en
 114. [WATCH ME Call Live & Close This Seller in UNDER 5 Minutes!](./transcripts/W8t17nmG-Wc.md) — en
 115. [Stop Talking Like a Wholesaler! (How To Get Seller’s To Stay YES)](./transcripts/v6Tc2ClVL5s.md) — en
+116. [This New Arizona Bill Would Make Normal Real Estate Deals Illegal!](./transcripts/hBzXfAJI5h8.md) — en
+117. [Real Estate Wholesalers Scam Sellers of Their Equity...](./transcripts/c_z-HyZPRoo.md) — en
+118. [Why Most Wholesalers FAIL at MLS Deals — and How to Beat the System](./transcripts/j72Zlt6sI7k.md) — en
+119. [Over 400 Deals Completed at 40 LIVE Meetups! - Using These Leads](./transcripts/k3TVQFV3Gj8.md) — en
