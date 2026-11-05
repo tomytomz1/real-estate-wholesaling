@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-04T18:02:45.769Z
+> Automatically updated: 2026-11-05T18:06:00.660Z
 
-116 transcripts are available across 116 long-form videos. Each transcript is stored in its own readable Markdown file.
+120 transcripts are available across 120 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -125,3 +125,7 @@ The archive checks for new uploads once every 24 hours.
 114. [How Millionaire Real Estate Investors Use PPC Differently](./transcripts/_c6pwU92FUo.md) — en
 115. [How Andrew's Generating 3,500 SEO Leads Every Month](./transcripts/A91c2rLw3GE.md) — en
 116. [Here's the Secrets to PPC the Experts Don't Want you to Know](./transcripts/g_8YaZci4yc.md) — en
+117. [How I Lost 10 Million Dollars Wholesaling Real Estate](./transcripts/ONbbJx5bsvM.md) — en
+118. [Here's What You're Doing Wrong in your PPC Campaigns](./transcripts/Wh6JpTyKwzY.md) — en
+119. [How RJ Bates III Bought 125 Houses in 50 Days](./transcripts/7u9ppwLZ-ps.md) — en
+120. [You Can't Do PPC Without Doing This!](./transcripts/rmRPbnGVmp0.md) — en
