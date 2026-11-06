@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-05T18:06:00.660Z
+> Automatically updated: 2026-11-06T17:32:45.257Z
 
-120 transcripts are available across 120 long-form videos. Each transcript is stored in its own readable Markdown file.
+124 transcripts are available across 124 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -129,3 +129,7 @@ The archive checks for new uploads once every 24 hours.
 118. [Here's What You're Doing Wrong in your PPC Campaigns](./transcripts/Wh6JpTyKwzY.md) — en
 119. [How RJ Bates III Bought 125 Houses in 50 Days](./transcripts/7u9ppwLZ-ps.md) — en
 120. [You Can't Do PPC Without Doing This!](./transcripts/rmRPbnGVmp0.md) — en
+121. [From Eating Chicken out of a Dumpster to Making Multiple 6 Figures](./transcripts/wEm-9V6chFg.md) — en
+122. [Why Real Estate Investors Use This to do More Deals in 2024](./transcripts/N4Q4C548ork.md) — en
+123. [How He Retired His Mom At 28 Flipping Real Estate](./transcripts/cqrR__TmUb0.md) — en
+124. [Use this Psychology Trick to Sell to Kanye West](./transcripts/Em3832VT8bs.md) — en
