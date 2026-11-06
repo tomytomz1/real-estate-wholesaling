@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-05T18:05:44.180Z
+> Automatically updated: 2026-11-06T17:32:26.426Z
 
-120 transcripts are available across 120 long-form videos. Each transcript is stored in its own readable Markdown file.
+124 transcripts are available across 124 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -129,3 +129,7 @@ The archive checks for new uploads once every 24 hours.
 118. [How To Go From $100K Yearly To $100K Monthly (The Best Methods)](./transcripts/GzOPR5pXKkw.md) — en
 119. [Wholesalers: Watch This Before You QUIT Your JOB](./transcripts/Lua6-W2M14s.md) — en
 120. [Starting As A Brand New Wholesaler In a Brand New Market | Wholesaling Inc Podcast](./transcripts/O_w482HxOBc.md) — en
+121. [10 GOLDEN Rules Of REAL ESTATE | Highlights](./transcripts/SnGCCtsWQ88.md) — en
+122. [Buying A House For Pennies On The Dollar | Wholesaling Inc Podcast](./transcripts/5hq38gI-Rxk.md) — en
+123. [“I Stole A House”](./transcripts/In2wrkO3eRI.md) — en
+124. [How To Wholesale A House Listed With A Real Estate Agent | (Best Moments)](./transcripts/UXqBpHUfUiQ.md) — en
