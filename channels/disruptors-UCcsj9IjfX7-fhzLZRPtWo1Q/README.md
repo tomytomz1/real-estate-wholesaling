@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-06T17:32:45.257Z
+> Automatically updated: 2026-11-07T16:29:51.506Z
 
-124 transcripts are available across 124 long-form videos. Each transcript is stored in its own readable Markdown file.
+128 transcripts are available across 128 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -133,3 +133,7 @@ The archive checks for new uploads once every 24 hours.
 122. [Why Real Estate Investors Use This to do More Deals in 2024](./transcripts/N4Q4C548ork.md) — en
 123. [How He Retired His Mom At 28 Flipping Real Estate](./transcripts/cqrR__TmUb0.md) — en
 124. [Use this Psychology Trick to Sell to Kanye West](./transcripts/Em3832VT8bs.md) — en
+125. [The 3 Things that can Trainwreck your Business](./transcripts/nXtp0Cpq4E0.md) — en
+126. [From Deathbed to Owning $350MM in Self Storage](./transcripts/QO10BeG5vuI.md) — en
+127. [How to Get all the Motivated Seller Leads you Want for Free](./transcripts/8Zf-eSieFpo.md) — en
+128. [How I Made $700K in my First 6 Months of Real Estate](./transcripts/8dxgN6_MsMo.md) — en
