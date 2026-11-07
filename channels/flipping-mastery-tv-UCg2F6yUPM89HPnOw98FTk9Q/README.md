@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-06T17:33:26.587Z
+> Automatically updated: 2026-11-07T16:30:09.559Z
 
-123 transcripts are available across 123 long-form videos. Each transcript is stored in its own readable Markdown file.
+127 transcripts are available across 127 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -132,3 +132,7 @@ The archive checks for new uploads once every 24 hours.
 121. [How To NOT Get Cut Out Of Your Wholesale Deals in 2026](./transcripts/1XB1DAcze1s.md) — en
 122. [Att. Wholesalers - You Have A Conversion Problem NOT A Lead Problem](./transcripts/iIAvT7jDaKs.md) — en
 123. [From First Contact to Signed Contract: My 5-Step Process](./transcripts/X9puYTimA_o.md) — en
+124. [How To Find & Hire A Killer Acquisitions Rep For You Wholesale Business](./transcripts/6Zh0Qxi7jFs.md) — en
+125. [How To Go From Beginner To Expert Wholesaler (as fast as possible)](./transcripts/3ttcnbMR8xo.md) — en
+126. [Another Wholesaler Filed A Memo on My Deal!😡](./transcripts/IYdCgnoTBRQ.md) — en
+127. [You Will Never Win at Wholesaling WITHOUT Understanding This…](./transcripts/f9kICaBdsPY.md) — en
