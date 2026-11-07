@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-06T17:32:26.426Z
+> Automatically updated: 2026-11-07T16:29:32.999Z
 
-124 transcripts are available across 124 long-form videos. Each transcript is stored in its own readable Markdown file.
+128 transcripts are available across 128 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -133,3 +133,7 @@ The archive checks for new uploads once every 24 hours.
 122. [Buying A House For Pennies On The Dollar | Wholesaling Inc Podcast](./transcripts/5hq38gI-Rxk.md) — en
 123. [“I Stole A House”](./transcripts/In2wrkO3eRI.md) — en
 124. [How To Wholesale A House Listed With A Real Estate Agent | (Best Moments)](./transcripts/UXqBpHUfUiQ.md) — en
+125. [You’re In The Wrong Market (Here’s Why) | Wholesaling Real Estate](./transcripts/_7scveCFwiQ.md) — en
+126. [From Construction Worker To 6-Figure Wholesaler | Wholesaling Inc Podcast](./transcripts/q8O_NJ3OWio.md) — en
+127. [How To Make Money On EVERY Wholesale Lead *HIGHLIGHTS*](./transcripts/_dFkqPz87gU.md) — en
+128. [Wholesalers DO THIS When The Market Shifts!](./transcripts/oSAuMt4_0e8.md) — en
