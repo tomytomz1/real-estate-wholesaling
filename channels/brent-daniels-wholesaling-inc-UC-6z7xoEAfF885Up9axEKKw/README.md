@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-07T16:29:32.999Z
+> Automatically updated: 2026-11-08T16:42:38.786Z
 
-128 transcripts are available across 128 long-form videos. Each transcript is stored in its own readable Markdown file.
+132 transcripts are available across 132 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -137,3 +137,7 @@ The archive checks for new uploads once every 24 hours.
 126. [From Construction Worker To 6-Figure Wholesaler | Wholesaling Inc Podcast](./transcripts/q8O_NJ3OWio.md) — en
 127. [How To Make Money On EVERY Wholesale Lead *HIGHLIGHTS*](./transcripts/_dFkqPz87gU.md) — en
 128. [Wholesalers DO THIS When The Market Shifts!](./transcripts/oSAuMt4_0e8.md) — en
+129. [How To Use ChatGPT For Your Wholesaling Business](./transcripts/T1Rr7opRdIA.md) — en
+130. [Top Motivated Seller Lists That Are Working Right Now *2024* | Highlights](./transcripts/f9KfclPBjG8.md) — en
+131. [How To Buy A House With 0% Interest Rate | Wholesaling Real Estate](./transcripts/JD07Pvf4h3s.md) — en
+132. [Wholesalers Not Making Money Won’t Want To Hear This](./transcripts/kbmEoyuL6NA.md) — en
