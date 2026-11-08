@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-07T16:30:09.559Z
+> Automatically updated: 2026-11-08T16:43:20.004Z
 
-127 transcripts are available across 127 long-form videos. Each transcript is stored in its own readable Markdown file.
+131 transcripts are available across 131 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -136,3 +136,7 @@ The archive checks for new uploads once every 24 hours.
 125. [How To Go From Beginner To Expert Wholesaler (as fast as possible)](./transcripts/3ttcnbMR8xo.md) — en
 126. [Another Wholesaler Filed A Memo on My Deal!😡](./transcripts/IYdCgnoTBRQ.md) — en
 127. [You Will Never Win at Wholesaling WITHOUT Understanding This…](./transcripts/f9kICaBdsPY.md) — en
+128. [Day 5 (Decision Day) - Dispo Masterclass For Million Dollar Wholesalers](./transcripts/V9L-NNqH16o.md) — en
+129. [Days 3-4 (Property Walkthrough) - Dispo Masterclass For Million Dollar Wholesalers](./transcripts/u4nCVcn96zE.md) — en
+130. [Days 0-1 (Prep & Blast) - Dispo Masterclass For Million Dollar Wholesalers](./transcripts/qCjzSSjwkcg.md) — en
+131. [Day 2 (Buyer Outreach) - Dispo Masterclass For Million Dollar Wholesalers](./transcripts/FSpytUVY1nA.md) — en
