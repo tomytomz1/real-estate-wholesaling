@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-07T16:29:51.506Z
+> Automatically updated: 2026-11-08T16:42:52.550Z
 
-128 transcripts are available across 128 long-form videos. Each transcript is stored in its own readable Markdown file.
+132 transcripts are available across 132 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -137,3 +137,7 @@ The archive checks for new uploads once every 24 hours.
 126. [From Deathbed to Owning $350MM in Self Storage](./transcripts/QO10BeG5vuI.md) — en
 127. [How to Get all the Motivated Seller Leads you Want for Free](./transcripts/8Zf-eSieFpo.md) — en
 128. [How I Made $700K in my First 6 Months of Real Estate](./transcripts/8dxgN6_MsMo.md) — en
+129. [From School Teacher to Millionaire Buying Pre-Foreclosures](./transcripts/zi3sP7SEqww.md) — en
+130. [How To Make Sales Calls And Close Them](./transcripts/E2VB8mcRqDY.md) — en
+131. [How To Do Novations Virtually](./transcripts/oIC-2QUvcKE.md) — en
+132. [Why People Fail in Real Estate and How to Avoid It](./transcripts/bqBhGsVGObM.md) — en
