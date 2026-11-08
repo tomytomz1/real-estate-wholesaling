@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-07T16:30:35.008Z
+> Automatically updated: 2026-11-08T16:43:50.486Z
 
-144 transcripts are available across 144 long-form videos. Each transcript is stored in its own readable Markdown file.
+148 transcripts are available across 148 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -153,3 +153,7 @@ The archive checks for new uploads once every 24 hours.
 142. [How to Buy RV Parks Without Cold Calling](./transcripts/0wjmjR-u6mg.md) — en
 143. [Why Scalability Matters More Than the “Perfect” Deal](./transcripts/Y4TGrLyaM3I.md) — en
 144. [How AI Is Changing Real Estate Investing](./transcripts/U89bkHLNzUY.md) — en
+145. [Turning a Small House into a 9-Bedroom Cash Flow Machine](./transcripts/j9ci4PFVneg.md) — en
+146. [Why I Stopped Buying Houses and Started Building People](./transcripts/08gzEJzzngc.md) — en
+147. [Most Wholesalers Get This Wrong](./transcripts/-5QAFS-4M6E.md) — en
+148. [How to Negotiate Seller Financing (Live Call)](./transcripts/pCHsHPaZd0k.md) — en
