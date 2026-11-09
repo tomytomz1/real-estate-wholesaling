@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-08T16:43:50.486Z
+> Automatically updated: 2026-11-09T20:49:05.736Z
 
-148 transcripts are available across 148 long-form videos. Each transcript is stored in its own readable Markdown file.
+152 transcripts are available across 152 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -157,3 +157,7 @@ The archive checks for new uploads once every 24 hours.
 146. [Why I Stopped Buying Houses and Started Building People](./transcripts/08gzEJzzngc.md) — en
 147. [Most Wholesalers Get This Wrong](./transcripts/-5QAFS-4M6E.md) — en
 148. [How to Negotiate Seller Financing (Live Call)](./transcripts/pCHsHPaZd0k.md) — en
+149. [This Is How You Go From Newbie to Wealthy](./transcripts/ZL3_VGUJBw4.md) — en
+150. [How to Know When a Real Estate Deal Is Worth It](./transcripts/XhVOmWGKeeM.md) — en
+151. [The $50K/Month RV Park Formula](./transcripts/1bEc-EQFuTI.md) — en
+152. [How I Made $150K﻿ on a Chipotle Deal I Didn’t Own](./transcripts/imnmrh3b7kQ.md) — en
