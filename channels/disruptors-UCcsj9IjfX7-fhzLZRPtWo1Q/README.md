@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-09T20:48:15.651Z
+> Automatically updated: 2026-11-10T17:55:01.308Z
 
-136 transcripts are available across 136 long-form videos. Each transcript is stored in its own readable Markdown file.
+140 transcripts are available across 140 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -145,3 +145,7 @@ The archive checks for new uploads once every 24 hours.
 134. [How to Buy Properties Pennies on the Dollar](./transcripts/rkmEhbe4FUc.md) — en
 135. [How to Buy Properties With $100](./transcripts/ingYKsCMMu8.md) — en
 136. [The Marketing Channel Everyone is Overlooking](./transcripts/ulwDl1Vauaw.md) — en
+137. [This Trick Makes Real Estate Super Easy](./transcripts/z02IMYNg4VU.md) — en
+138. [Money Mistakes 99% of Investors Make and How to Avoid Them](./transcripts/xSqErUuDFsY.md) — en
+139. [Build the Business that Fits your Life](./transcripts/xD6FgE-Zn4s.md) — en
+140. [Where to Find the Best Talent for your Business](./transcripts/SRNYPRbFuHI.md) — en
