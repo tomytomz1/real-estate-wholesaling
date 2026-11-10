@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-09T20:48:36.458Z
+> Automatically updated: 2026-11-10T17:55:24.736Z
 
-135 transcripts are available across 135 long-form videos. Each transcript is stored in its own readable Markdown file.
+139 transcripts are available across 139 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -144,3 +144,7 @@ The archive checks for new uploads once every 24 hours.
 133. [Introduction To The Ultimate 5-Day Dispo Masterclass For Million-Dollar Wholesalers](./transcripts/NuYn-U7wqPk.md) — en
 134. [Do This When A Seller Won't Give Their Price First...](./transcripts/DKyZT6OzLXk.md) — en
 135. [How To Find & Hire Boots On The Ground - Virtual Wholesaling](./transcripts/9I7WY9oXuLY.md) — en
+136. [This Is How You Talk To Sellers & Close Deals! (Watch A Pro In Action)](./transcripts/8sbTqUQuHZI.md) — en
+137. [I Stopped Coaching & Joined RJ Bates' Titanium University. Here's Why...](./transcripts/w_SV-XvNs8U.md) — en
+138. [How to Become A Pro Wholesaler in 12 Months! - w/ Anthony Cassar](./transcripts/snGguzk2mso.md) — en
+139. [The Hard TRUTH About Flipping Houses w/ Robbie Crager](./transcripts/YAMmM02r81g.md) — en
