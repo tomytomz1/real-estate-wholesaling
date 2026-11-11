@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-10T17:55:01.308Z
+> Automatically updated: 2026-11-11T17:55:39.430Z
 
-140 transcripts are available across 140 long-form videos. Each transcript is stored in its own readable Markdown file.
+144 transcripts are available across 144 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -149,3 +149,7 @@ The archive checks for new uploads once every 24 hours.
 138. [Money Mistakes 99% of Investors Make and How to Avoid Them](./transcripts/xSqErUuDFsY.md) — en
 139. [Build the Business that Fits your Life](./transcripts/xD6FgE-Zn4s.md) — en
 140. [Where to Find the Best Talent for your Business](./transcripts/SRNYPRbFuHI.md) — en
+141. [How to Wholesale Real Estate In 2025 (Easy Guide)](./transcripts/HQCO_Nxkm8s.md) — en
+142. [From College Dropout to Multi Millionaire](./transcripts/yxyLQMhnORM.md) — en
+143. [How I Made Millions of Dollars in Sales](./transcripts/ndnHCT3rxXo.md) — en
+144. [The Secret To Becoming A Millionaire Before 30](./transcripts/nhEOCIjEIy8.md) — en
