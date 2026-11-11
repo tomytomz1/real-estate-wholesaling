@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-10T17:54:40.988Z
+> Automatically updated: 2026-11-11T17:55:19.747Z
 
-140 transcripts are available across 140 long-form videos. Each transcript is stored in its own readable Markdown file.
+144 transcripts are available across 144 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -149,3 +149,7 @@ The archive checks for new uploads once every 24 hours.
 138. [LIVE Calling Real Estate Agents To CLOSE DEALS | Wholesale Real Estate](./transcripts/u7zxTsrgzQ0.md) — en
 139. [Probate Advice From A Probate Attorney | Wholesale Real Estate](./transcripts/TG-HD14okSg.md) — en
 140. [NET Cashflow Of $10K Monthly With Just 1 Rental Property! | Wholesale Real Estate](./transcripts/E4aJLnrW2q8.md) — en
+141. [Close A $30,000 Deal THIS WEEK | Wholesale Real Estate](./transcripts/Fue-R1PGyXM.md) — en
+142. [WATCH THIS IF YOU NEED A DEAL FUNDED | Wholesale Real Estate](./transcripts/UNwq3AsPbRw.md) — en
+143. [How To Successfully Close A Deal (Role Play) | Wholesale Real Estate](./transcripts/GiezbxY9b0g.md) — en
+144. [How He Is Closing FREE Deals On Social Media | Wholesale Real Estate](./transcripts/bCS3h8ApRTQ.md) — en
