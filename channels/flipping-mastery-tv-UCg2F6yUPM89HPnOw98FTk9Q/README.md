@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-11T17:56:03.505Z
+> Automatically updated: 2026-11-12T18:23:17.694Z
 
-143 transcripts are available across 143 long-form videos. Each transcript is stored in its own readable Markdown file.
+147 transcripts are available across 147 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -152,3 +152,7 @@ The archive checks for new uploads once every 24 hours.
 141. [How Tamera Wholesaled 4 Houses From 1 Agent (her first deal!)](./transcripts/UFS2esEbPh8.md) — en
 142. [10 Behaviors With Sellers That Are KILLING Your Deals! (and how to fix it)](./transcripts/OuB41qA9fqU.md) — en
 143. [If You’re A New Wholesaler - ONLY Ask Sellers These 10 Questions](./transcripts/7m8WoTRi65Q.md) — en
+144. [How To Wholesale ANY House Using InvestorBase (even a crappy trailer in nowhere Oklahoma)](./transcripts/ntq-i6SufYk.md) — en
+145. [Direct-to-Agent Vs. Direct-to-Seller. Which Is Better?](./transcripts/AMjVN7m_IVw.md) — en
+146. [Everything You Need To Know About Maryland's New Wholesale Regulation (SB 155)](./transcripts/7rEk_ECGSak.md) — en
+147. [Everything You Need to Know About Oklahoma's New Wholesale Regulation (2025 Edition)](./transcripts/QNKH3l3oQo8.md) — en
