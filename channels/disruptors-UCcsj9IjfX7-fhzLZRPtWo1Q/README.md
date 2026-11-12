@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-11T17:55:39.430Z
+> Automatically updated: 2026-11-12T18:22:53.994Z
 
-144 transcripts are available across 144 long-form videos. Each transcript is stored in its own readable Markdown file.
+148 transcripts are available across 148 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -153,3 +153,7 @@ The archive checks for new uploads once every 24 hours.
 142. [From College Dropout to Multi Millionaire](./transcripts/yxyLQMhnORM.md) — en
 143. [How I Made Millions of Dollars in Sales](./transcripts/ndnHCT3rxXo.md) — en
 144. [The Secret To Becoming A Millionaire Before 30](./transcripts/nhEOCIjEIy8.md) — en
+145. [How To Do Real Estate Working Less Than 1 Hour A Week](./transcripts/w3YTaOkegoM.md) — en
+146. [How Wholesaling will Change in 2024](./transcripts/T4BZOtekpG0.md) — en
+147. [How to do a $1MM in 2024 by Micro Flipping](./transcripts/vofOJyZWK18.md) — en
+148. [How Brad Chandler did 253 Deals Last Year Only Working One Hour a Week](./transcripts/c02GsJbKlP4.md) — en
