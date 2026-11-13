@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-12T18:22:53.994Z
+> Automatically updated: 2026-11-13T17:47:38.770Z
 
-148 transcripts are available across 148 long-form videos. Each transcript is stored in its own readable Markdown file.
+152 transcripts are available across 152 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -157,3 +157,7 @@ The archive checks for new uploads once every 24 hours.
 146. [How Wholesaling will Change in 2024](./transcripts/T4BZOtekpG0.md) — en
 147. [How to do a $1MM in 2024 by Micro Flipping](./transcripts/vofOJyZWK18.md) — en
 148. [How Brad Chandler did 253 Deals Last Year Only Working One Hour a Week](./transcripts/c02GsJbKlP4.md) — en
+149. [From Soccer Coach to Flipping Real Estate in 23 States](./transcripts/OlVUtYUNPjM.md) — en
+150. [NAR Lawsuit Explained: What Does This Mean for Real Estate?](./transcripts/qCYp3PEgxHo.md) — en
+151. [What’s the Number 1 Marketing Channel to Scale your Business?](./transcripts/88q-MT8OQ7g.md) — en
+152. [The Best Website Template for Wholesale Real Estate (2023)](./transcripts/rfoGkcA-vE8.md) — en
