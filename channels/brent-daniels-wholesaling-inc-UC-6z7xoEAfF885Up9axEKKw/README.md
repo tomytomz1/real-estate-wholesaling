@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-12T18:22:33.533Z
+> Automatically updated: 2026-11-13T17:47:22.617Z
 
-148 transcripts are available across 148 long-form videos. Each transcript is stored in its own readable Markdown file.
+152 transcripts are available across 152 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -157,3 +157,7 @@ The archive checks for new uploads once every 24 hours.
 146. [Sharing A Room With Grandma To Penthouse Views (Wholesale Real Estate)](./transcripts/WQnlFjmGaIY.md) — en
 147. [Is This The END Of Wholesaling Real Estate? Discover South Carolina's New Law](./transcripts/IqnDHoAot3g.md) — en
 148. [Getting Real Estate Leads Just Got WAY Easier! | Wholesale Real Estate](./transcripts/GGrvwId84kc.md) — en
+149. [DIRECT MAIL STILL WORKS? | Wholesale Real Estate](./transcripts/hU5WvAoeoGc.md) — en
+150. [He MADE MILLIONS W/ Just A Keyboard | Wholesale Real Estate](./transcripts/ThJkQZ230ZE.md) — en
+151. [Master Google AD’s In 2024! (Wholesale Real Estate)](./transcripts/4ZIjjUxvqwA.md) — en
+152. [HOW TO HIRE THE BEST VA COMPANY IN 2024! (Wholesale Real Estate)](./transcripts/O0m4NkoJWzo.md) — en
