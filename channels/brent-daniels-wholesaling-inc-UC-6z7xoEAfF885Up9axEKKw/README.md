@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-13T17:47:22.617Z
+> Automatically updated: 2026-11-14T16:38:02.499Z
 
-152 transcripts are available across 152 long-form videos. Each transcript is stored in its own readable Markdown file.
+156 transcripts are available across 156 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -161,3 +161,7 @@ The archive checks for new uploads once every 24 hours.
 150. [He MADE MILLIONS W/ Just A Keyboard | Wholesale Real Estate](./transcripts/ThJkQZ230ZE.md) — en
 151. [Master Google AD’s In 2024! (Wholesale Real Estate)](./transcripts/4ZIjjUxvqwA.md) — en
 152. [HOW TO HIRE THE BEST VA COMPANY IN 2024! (Wholesale Real Estate)](./transcripts/O0m4NkoJWzo.md) — en
+153. [NEW TO WHOLESALING REAL ESTATE? WATCH THIS!](./transcripts/Es00uh7uBgM.md) — en
+154. [FASTEST WAY TO GET LEADS IN 2024! (Wholesale Real Estate)](./transcripts/FB7tfTe-D-s.md) — en
+155. [Building A FREE Cash Buyer List (TUTORIAL) | Wholesale Real Estate](./transcripts/VUHMXlxdgck.md) — en
+156. [How To Get YOUR First Real Estate Wholesale DEAL in 30 DAYS | Tutorial](./transcripts/McnatYt6X00.md) — en
