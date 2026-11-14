@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-13T17:47:38.770Z
+> Automatically updated: 2026-11-14T16:38:31.135Z
 
-152 transcripts are available across 152 long-form videos. Each transcript is stored in its own readable Markdown file.
+156 transcripts are available across 156 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -161,3 +161,7 @@ The archive checks for new uploads once every 24 hours.
 150. [NAR Lawsuit Explained: What Does This Mean for Real Estate?](./transcripts/qCYp3PEgxHo.md) — en
 151. [What’s the Number 1 Marketing Channel to Scale your Business?](./transcripts/88q-MT8OQ7g.md) — en
 152. [The Best Website Template for Wholesale Real Estate (2023)](./transcripts/rfoGkcA-vE8.md) — en
+153. [How to do $1MM in Net Profit in 1 Month](./transcripts/YJtXkdhJ4BI.md) — en
+154. [Using A.I to Find Wholesale Buyers in Under 3 Seconds](./transcripts/18qW3SY8Dgo.md) — en
+155. [How Wholesale Almost Went Extinct in Q1 of 2023](./transcripts/Wx8G4PpRtuo.md) — en
+156. [Selling the Most Difficult Deal on InvestorLift in Just 15 Minutes](./transcripts/Pj5YHCBlpGc.md) — en
