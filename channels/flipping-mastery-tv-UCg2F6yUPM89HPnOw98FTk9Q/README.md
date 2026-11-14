@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-13T17:48:20.500Z
+> Automatically updated: 2026-11-14T16:39:20.081Z
 
-151 transcripts are available across 151 long-form videos. Each transcript is stored in its own readable Markdown file.
+155 transcripts are available across 155 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -160,3 +160,7 @@ The archive checks for new uploads once every 24 hours.
 149. [If You Wholesale or Flip Houses, This is The Biggest Opportunity in 2026](./transcripts/q0T82mFxUuw.md) — en
 150. [Everything You Need To Know About Ohio's New Wholesale Regulation (SB 155)](./transcripts/ZkfKnEZ84rk.md) — en
 151. [This is Why You Suck At Wholesaling (and how to fix it)](./transcripts/0yITYcXnBks.md) — en
+152. [This Is Why You Should Attend Pace Morby's Creative Nation Tour!](./transcripts/tNSa9sTn0Ys.md) — en
+153. [This Cash Buyer Tried To Screw Us! (how to protect yourself)](./transcripts/T9Znw5NiUY0.md) — en
+154. [Most People Suck at Closing Sellers! (Just Follow This…)](./transcripts/rgbkOYLqCMA.md) — en
+155. [Get Warm Seller Leads For ONLY $2.49 Per Lead (Don't Wait This Time!)](./transcripts/YUa8ctE7R38.md) — en
