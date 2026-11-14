@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-13T17:48:41.420Z
+> Automatically updated: 2026-11-14T16:39:44.437Z
 
-168 transcripts are available across 168 long-form videos. Each transcript is stored in its own readable Markdown file.
+172 transcripts are available across 172 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -177,3 +177,7 @@ The archive checks for new uploads once every 24 hours.
 166. [This Is Why Most New Investors Get Stuck](./transcripts/w71yDaSkcds.md) — en
 167. [Breaking Down a $0 Down Flip](./transcripts/UnwXxCeNbZ4.md) — en
 168. [This Is How You Pitch Creative Finance on an RV Park](./transcripts/iicwmXPP7OI.md) — en
+169. [The Lending Strategy Most People Overlook](./transcripts/1NdGdHXgRiI.md) — en
+170. [Can You Do Real Estate in Puerto Rico?](./transcripts/pfMHVeMiOIE.md) — en
+171. [This Is What a Real Meetup Looks Like](./transcripts/N_pNOxLtUjs.md) — en
+172. [The Exact System to Wholesale Faster and Scale Smarter](./transcripts/jhiqVPzP-us.md) — en
