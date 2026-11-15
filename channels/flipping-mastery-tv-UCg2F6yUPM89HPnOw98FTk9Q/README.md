@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-14T16:39:20.081Z
+> Automatically updated: 2026-11-15T17:15:15.582Z
 
-155 transcripts are available across 155 long-form videos. Each transcript is stored in its own readable Markdown file.
+159 transcripts are available across 159 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -164,3 +164,7 @@ The archive checks for new uploads once every 24 hours.
 153. [This Cash Buyer Tried To Screw Us! (how to protect yourself)](./transcripts/T9Znw5NiUY0.md) — en
 154. [Most People Suck at Closing Sellers! (Just Follow This…)](./transcripts/rgbkOYLqCMA.md) — en
 155. [Get Warm Seller Leads For ONLY $2.49 Per Lead (Don't Wait This Time!)](./transcripts/YUa8ctE7R38.md) — en
+156. [How To NOT Get Burned By Contractors When Flipping Houses](./transcripts/EGViNH31HkI.md) — en
+157. [How To Get Your First Wholesale Deal in 10 Days!](./transcripts/sO8AkJilReU.md) — en
+158. [Warm Leads For ONLY $1.66... (Complete No-Brainer!)](./transcripts/99wwYq0ZxhI.md) — en
+159. [How To Flip 15 Houses a Year Part-Time (Even If You Hate Renovations)](./transcripts/sLGsyhtVffQ.md) — en
