@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-14T16:38:31.135Z
+> Automatically updated: 2026-11-15T17:14:47.441Z
 
-156 transcripts are available across 156 long-form videos. Each transcript is stored in its own readable Markdown file.
+160 transcripts are available across 160 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -165,3 +165,7 @@ The archive checks for new uploads once every 24 hours.
 154. [Using A.I to Find Wholesale Buyers in Under 3 Seconds](./transcripts/18qW3SY8Dgo.md) — en
 155. [How Wholesale Almost Went Extinct in Q1 of 2023](./transcripts/Wx8G4PpRtuo.md) — en
 156. [Selling the Most Difficult Deal on InvestorLift in Just 15 Minutes](./transcripts/Pj5YHCBlpGc.md) — en
+157. [The Best Type of People to Hire](./transcripts/5zJ-F2Ut2-0.md) — en
+158. [How I Made Millions of Dollars By Discovering this Group](./transcripts/S7rDDlj5jR8.md) — en
+159. [There was Less Than 1% This Deal was going to Close and then this HAPPENED](./transcripts/wTTMeEAtIPk.md) — en
+160. [How to Sell Deals Faster & for More Money using AI Inside Investorlift (Wholesaling)](./transcripts/SUdFmchiZTY.md) — en
