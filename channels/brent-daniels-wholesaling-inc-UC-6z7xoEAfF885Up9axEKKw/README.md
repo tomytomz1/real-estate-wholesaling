@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-14T16:38:02.499Z
+> Automatically updated: 2026-11-15T17:14:32.563Z
 
-156 transcripts are available across 156 long-form videos. Each transcript is stored in its own readable Markdown file.
+160 transcripts are available across 160 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -165,3 +165,7 @@ The archive checks for new uploads once every 24 hours.
 154. [FASTEST WAY TO GET LEADS IN 2024! (Wholesale Real Estate)](./transcripts/FB7tfTe-D-s.md) — en
 155. [Building A FREE Cash Buyer List (TUTORIAL) | Wholesale Real Estate](./transcripts/VUHMXlxdgck.md) — en
 156. [How To Get YOUR First Real Estate Wholesale DEAL in 30 DAYS | Tutorial](./transcripts/McnatYt6X00.md) — en
+157. [Building A Cash Buyer List (FREE) | Wholesale Real Estate](./transcripts/UaZ1pM7eTn4.md) — en
+158. [Where To Find The BEST Wholesale Real Estate Deals | PT.2](./transcripts/X-bzOEDi1iw.md) — en
+159. [GET Your FIRST Wholesale DEAL In 30 Days | Step-By-Step](./transcripts/N7kxngeB9Mo.md) — en
+160. [Where To Find The BEST Wholesale Real Estate Deals | PT.1](./transcripts/tgg2EZN4PMU.md) — en
