@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-15T17:15:58.236Z
+> Automatically updated: 2026-11-16T20:33:02.664Z
 
-176 transcripts are available across 176 long-form videos. Each transcript is stored in its own readable Markdown file.
+180 transcripts are available across 180 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -185,3 +185,7 @@ The archive checks for new uploads once every 24 hours.
 174. [Every Level of Creative Finance Explained](./transcripts/Q8-GYazVWxA.md) — en
 175. [Live Call Breakdown: Structuring a 3-Park RV Deal Without a Bank](./transcripts/KZ9B58tLCI4.md) — en
 176. [The Side of My Marriage You Never See](./transcripts/LDEGoHDq8-U.md) — en
+177. [Why the Most Common Beginner Real Estate Strategy Fails](./transcripts/27e_xACdUM8.md) — en
+178. [$2.8M Apartment - No Bank, 0% Interest](./transcripts/RsIzMoJD3QY.md) — en
+179. [I Got Robbed in Philadelphia](./transcripts/tYKLszjo_KE.md) — en
+180. [I Took a Lamborghini as Collateral (Insane but Legal)](./transcripts/ujNgxAyJV5Y.md) — en
