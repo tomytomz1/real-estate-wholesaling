@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-16T20:32:13.755Z
+> Automatically updated: 2026-11-17T19:13:02.303Z
 
-164 transcripts are available across 164 long-form videos. Each transcript is stored in its own readable Markdown file.
+168 transcripts are available across 168 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -173,3 +173,7 @@ The archive checks for new uploads once every 24 hours.
 162. [How Sean Terry Built his EMPIRE](./transcripts/ow0P3odBnA0.md) — en
 163. [My Checklist Before making a Million Dollar Move](./transcripts/yBLGuNGIS7s.md) — en
 164. [Real? Phony or Guru?](./transcripts/lppCSzWgTjs.md) — en
+165. [My Sober Living Homes (For Recovering Alcoholics) are Nicer then 5 Star Hotels](./transcripts/jDafv3ksKro.md) — en
+166. [Steve's Birthday Party Changed my Life](./transcripts/d7GWic5mvZE.md) — en
+167. [How Leon G. Barnes is Buys 30+ Properties a Year AS A SIDE HUSTLE!!](./transcripts/DAtU1NxDDO0.md) — en
+168. [The Side Effects of Hardcore Drugs in Early Life (It's not good)](./transcripts/00Vlw9oZlno.md) — en
