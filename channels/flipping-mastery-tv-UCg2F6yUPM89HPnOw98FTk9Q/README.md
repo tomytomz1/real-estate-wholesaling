@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-16T20:32:38.070Z
+> Automatically updated: 2026-11-17T19:13:23.421Z
 
-163 transcripts are available across 163 long-form videos. Each transcript is stored in its own readable Markdown file.
+167 transcripts are available across 167 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -172,3 +172,7 @@ The archive checks for new uploads once every 24 hours.
 161. [A Buyer Tried To Screw Me. So I Sued Him and Won!](./transcripts/efZ6w3HgxxI.md) — en
 162. [The Real Estate Market Sucks Right Now — Do This To Still Make Money](./transcripts/NL4k5szx-9g.md) — en
 163. [How to Build Real Estate Wealth the RIGHT Way (Fast → Medium → Slow)](./transcripts/gaiJBvkYL-w.md) — en
+164. [The Latest Scam in Wholesale Real Estate (More Regulation)](./transcripts/U8-GDN5Dtkg.md) — en
+165. [Watch Me Find Cash Buyers - LIVE Using Zillow](./transcripts/WR2r0lDkQR0.md) — en
+166. [The Easiest Way to Start Wholesaling Houses](./transcripts/CQGTQqLA0ug.md) — en
+167. [My Mentor Taught Me How To Retire DEBT-FREE in 10 Years (NO ONE Teaches This)](./transcripts/WtuFnG2dcY4.md) — en
