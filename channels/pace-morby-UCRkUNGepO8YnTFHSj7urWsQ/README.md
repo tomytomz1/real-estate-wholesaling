@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-16T20:33:02.664Z
+> Automatically updated: 2026-11-17T19:13:46.522Z
 
-180 transcripts are available across 180 long-form videos. Each transcript is stored in its own readable Markdown file.
+184 transcripts are available across 184 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -189,3 +189,7 @@ The archive checks for new uploads once every 24 hours.
 178. [$2.8M Apartment - No Bank, 0% Interest](./transcripts/RsIzMoJD3QY.md) — en
 179. [I Got Robbed in Philadelphia](./transcripts/tYKLszjo_KE.md) — en
 180. [I Took a Lamborghini as Collateral (Insane but Legal)](./transcripts/ujNgxAyJV5Y.md) — en
+181. [Nobody Wants to Do This - That’s Why It Works](./transcripts/S0r4HXXjvOg.md) — en
+182. [Most New Investors Start in the Wrong Place](./transcripts/-zkhFWdNoHg.md) — en
+183. [If You’re Still the Same Person You Were 5 Years Ago, Watch This.](./transcripts/Zl0Bwv2LLFE.md) — en
+184. [The Simplest Way New Investors Get Paid](./transcripts/Lw5aj7ceotY.md) — en
