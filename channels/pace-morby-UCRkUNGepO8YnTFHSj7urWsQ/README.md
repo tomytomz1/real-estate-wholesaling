@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-17T19:13:46.522Z
+> Automatically updated: 2026-11-18T18:54:17.271Z
 
-184 transcripts are available across 184 long-form videos. Each transcript is stored in its own readable Markdown file.
+188 transcripts are available across 188 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -193,3 +193,7 @@ The archive checks for new uploads once every 24 hours.
 182. [Most New Investors Start in the Wrong Place](./transcripts/-zkhFWdNoHg.md) — en
 183. [If You’re Still the Same Person You Were 5 Years Ago, Watch This.](./transcripts/Zl0Bwv2LLFE.md) — en
 184. [The Simplest Way New Investors Get Paid](./transcripts/Lw5aj7ceotY.md) — en
+185. [What Matters More Than Strategy in Real Estate?](./transcripts/nYUbyeW8xrg.md) — en
+186. [What Big Investors Know That Beginners Don’t](./transcripts/tjWxP--HQqs.md) — en
+187. [Once You Learn This, Real Estate Becomes Easy!](./transcripts/O0BdZu0vWpU.md) — en
+188. [The Fastest Way to Close Deals](./transcripts/VDDtI881fZM.md) — en
