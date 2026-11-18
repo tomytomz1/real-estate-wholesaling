@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-17T19:13:02.303Z
+> Automatically updated: 2026-11-18T18:53:26.355Z
 
-168 transcripts are available across 168 long-form videos. Each transcript is stored in its own readable Markdown file.
+172 transcripts are available across 172 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -177,3 +177,7 @@ The archive checks for new uploads once every 24 hours.
 166. [Steve's Birthday Party Changed my Life](./transcripts/d7GWic5mvZE.md) — en
 167. [How Leon G. Barnes is Buys 30+ Properties a Year AS A SIDE HUSTLE!!](./transcripts/DAtU1NxDDO0.md) — en
 168. [The Side Effects of Hardcore Drugs in Early Life (It's not good)](./transcripts/00Vlw9oZlno.md) — en
+169. [In the Future Wholesale Will...](./transcripts/okCUOkZeNmA.md) — en
+170. [How Jason Lewis is Wholesaling 6 Figures a Week](./transcripts/sRJb0LrlrZs.md) — en
+171. [I was Almost out of Money in 2008](./transcripts/knjd0xQjH-s.md) — en
+172. [I Almost Quit Wholesaling After THIS](./transcripts/AsJSsfyeKwk.md) — en
