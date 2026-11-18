@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-17T19:12:42.289Z
+> Automatically updated: 2026-11-18T18:52:54.744Z
 
-168 transcripts are available across 168 long-form videos. Each transcript is stored in its own readable Markdown file.
+172 transcripts are available across 172 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -177,3 +177,7 @@ The archive checks for new uploads once every 24 hours.
 166. [Don’t Pay For Real Estate LEADS Until You Watch THIS…](./transcripts/zmkrwBjF1Wc.md) — en
 167. [Why MOST Wholesale Real Estate Leads Will NEVER Convert!](./transcripts/KGnHicLJesw.md) — en
 168. [How To Get Real Estate Wholesale Leads For FREE! (Tutorial)](./transcripts/47dbVa2Wxtk.md) — en
+169. [DON'T Wholesale In 2024 WITHOUT Watching This Video....](./transcripts/RZSvxJH3P-c.md) — en
+170. [How To Wholesale Probate/Inherited Deals | Wholesaling Keys To Success](./transcripts/XJBDjoXt3ns.md) — en
+171. [50+ Wholesale Deals a Year in 4 Easy Steps](./transcripts/1DOv_I_mr1g.md) — en
+172. [VACANT LAND = HUGE DEALS | Wholesale Real Estate](./transcripts/WFJ5dVMULHo.md) — en
