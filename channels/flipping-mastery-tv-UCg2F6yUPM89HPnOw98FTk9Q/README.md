@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-17T19:13:23.421Z
+> Automatically updated: 2026-11-18T18:53:55.990Z
 
-167 transcripts are available across 167 long-form videos. Each transcript is stored in its own readable Markdown file.
+171 transcripts are available across 171 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -176,3 +176,7 @@ The archive checks for new uploads once every 24 hours.
 165. [Watch Me Find Cash Buyers - LIVE Using Zillow](./transcripts/WR2r0lDkQR0.md) — en
 166. [The Easiest Way to Start Wholesaling Houses](./transcripts/CQGTQqLA0ug.md) — en
 167. [My Mentor Taught Me How To Retire DEBT-FREE in 10 Years (NO ONE Teaches This)](./transcripts/WtuFnG2dcY4.md) — en
+168. [How To Calculate The Wholesale Offer Price On Any House in 90 Seconds \[New & Improved\]](./transcripts/KmmDpklGB3k.md) — en
+169. [The 2026 Wholesaling Crisis: Why Most Wholesalers Won’t Survive!](./transcripts/Yg7zOh3N-IA.md) — en
+170. [How To Go From $0 to $100k - Wholesaling Real Estate](./transcripts/OUH-IOYHB70.md) — en
+171. [Find Deals & Get Paid $10,000! \[Deal Finder TRAINING\]](./transcripts/SPtp0nhu-Xk.md) — en
