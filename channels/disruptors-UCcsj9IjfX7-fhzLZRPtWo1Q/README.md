@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-18T18:53:26.355Z
+> Automatically updated: 2026-11-19T19:01:24.579Z
 
-172 transcripts are available across 172 long-form videos. Each transcript is stored in its own readable Markdown file.
+176 transcripts are available across 176 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -181,3 +181,7 @@ The archive checks for new uploads once every 24 hours.
 170. [How Jason Lewis is Wholesaling 6 Figures a Week](./transcripts/sRJb0LrlrZs.md) — en
 171. [I was Almost out of Money in 2008](./transcripts/knjd0xQjH-s.md) — en
 172. [I Almost Quit Wholesaling After THIS](./transcripts/AsJSsfyeKwk.md) — en
+173. [From Homeless Drug Addict to Owning Multiple 8 Figure Companies](./transcripts/hCPNRozCOvM.md) — en
+174. [From homeless drug addict to a millionaire #mindset](./transcripts/00u7_SKgUG0.md) — en
+175. [Why Texting is the Best Way to Close Deals](./transcripts/LHeIlhIiuQ4.md) — en
+176. [Do Cellphone Carriers Actually Care About Cold Text Marketing?](./transcripts/c8SVMQ4y0WM.md) — en
