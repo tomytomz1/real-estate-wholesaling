@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-19T19:01:54.054Z
+> Automatically updated: 2026-11-20T18:39:01.233Z
 
-175 transcripts are available across 175 long-form videos. Each transcript is stored in its own readable Markdown file.
+179 transcripts are available across 179 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -184,3 +184,7 @@ The archive checks for new uploads once every 24 hours.
 173. [RE-NEGOTIATING Price With A Seller Sucks! (Watch Me Do It Live!)](./transcripts/biaApEXCvso.md) — en
 174. [How to Lend Money From Your IRA on Real Estate Deals (tax free!)](./transcripts/U5CoCiaFmkA.md) — en
 175. [The Best Interview On Closing Distressed Sellers You’ll Watch All Day!  (Leads2Deals Podcast)](./transcripts/0Z5xD0I4NFU.md) — en
+176. [Wholesalers Are CONFUSED About Texas SB 140! ](./transcripts/IgrVp-LkP9g.md) — en
+177. [Texas Just Made Cold Calling & SMS For Wholesalers ALMOST Impossible!](./transcripts/6IIfhGo36BE.md) — en
+178. [5 Easy Steps To Find Unlimited Cash Buyers For FREE - Using Propwire](./transcripts/My81360A4gI.md) — en
+179. [Propwire Just Changed The Game for Real Estate (this is insane!)](./transcripts/JHTJPqvCoYc.md) — en
