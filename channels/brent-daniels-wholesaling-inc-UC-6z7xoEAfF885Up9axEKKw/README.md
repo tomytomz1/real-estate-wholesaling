@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-19T19:01:05.924Z
+> Automatically updated: 2026-11-20T18:38:13.093Z
 
-176 transcripts are available across 176 long-form videos. Each transcript is stored in its own readable Markdown file.
+180 transcripts are available across 180 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -185,3 +185,7 @@ The archive checks for new uploads once every 24 hours.
 174. [HE MADE $3,200,000 OVER THE PHONE? | 5 Step Break Down](./transcripts/SZY4vOx9zUA.md) — en
 175. [10 Free Wholesale Real Estate Deals...DO THIS!!!!!](./transcripts/CQb5sEm0vSo.md) — en
 176. [Do Bandit Signs Still Work? | Her Wholesaling Journey](./transcripts/E_pjom1iYiY.md) — en
+177. [Free Motivated Seller Lists....No One Knows About!!](./transcripts/kNFIks_PVmw.md) — en
+178. [Fire Fighter Turned Wholesaler | $350K in 1 Year](./transcripts/FSyqYTI1uRI.md) — en
+179. [The Novation KING! ($30k Average Deal)](./transcripts/OegUteQDgPI.md) — en
+180. [Raise $1,000,000 IN 30 DAYS | *2024!*](./transcripts/wZlyx8nw50E.md) — en
