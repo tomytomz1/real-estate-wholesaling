@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-19T19:01:24.579Z
+> Automatically updated: 2026-11-20T18:38:32.047Z
 
-176 transcripts are available across 176 long-form videos. Each transcript is stored in its own readable Markdown file.
+180 transcripts are available across 180 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -185,3 +185,7 @@ The archive checks for new uploads once every 24 hours.
 174. [From homeless drug addict to a millionaire #mindset](./transcripts/00u7_SKgUG0.md) — en
 175. [Why Texting is the Best Way to Close Deals](./transcripts/LHeIlhIiuQ4.md) — en
 176. [Do Cellphone Carriers Actually Care About Cold Text Marketing?](./transcripts/c8SVMQ4y0WM.md) — en
+177. [Sean Terry... Quitting After 20 Years?](./transcripts/xCN2gcAvEFo.md) — en
+178. [Why is Everyone Freaking Out About Airbnbs?](./transcripts/G7uXx_qno8g.md) — en
+179. [How I Help Athletes 3X Their Sports Salary](./transcripts/v35809tHAM4.md) — en
+180. [How to Crush Text Marketing and Not Get Shut Down in 2023](./transcripts/emyapxf6hkg.md) — en
