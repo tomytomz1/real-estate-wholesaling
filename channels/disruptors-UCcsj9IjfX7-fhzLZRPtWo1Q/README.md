@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-20T18:38:32.047Z
+> Automatically updated: 2026-11-21T17:37:30.084Z
 
-180 transcripts are available across 180 long-form videos. Each transcript is stored in its own readable Markdown file.
+184 transcripts are available across 184 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -189,3 +189,7 @@ The archive checks for new uploads once every 24 hours.
 178. [Why is Everyone Freaking Out About Airbnbs?](./transcripts/G7uXx_qno8g.md) — en
 179. [How I Help Athletes 3X Their Sports Salary](./transcripts/v35809tHAM4.md) — en
 180. [How to Crush Text Marketing and Not Get Shut Down in 2023](./transcripts/emyapxf6hkg.md) — en
+181. [What's the Real Estate Market Doing Right Now](./transcripts/OMX-4FVYy8U.md) — en
+182. [This is the Real COST of Doing Wholesale Deals](./transcripts/RxWp1oqSTfE.md) — en
+183. [Is the Recession Really Over?](./transcripts/Gympo85EqCI.md) — en
+184. [Real Estate vs Stock Market, Which Makes the Most Millionaires?](./transcripts/H0ilk1f1dOo.md) — en
