@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-20T18:38:13.093Z
+> Automatically updated: 2026-11-21T17:37:10.118Z
 
-180 transcripts are available across 180 long-form videos. Each transcript is stored in its own readable Markdown file.
+184 transcripts are available across 184 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -189,3 +189,7 @@ The archive checks for new uploads once every 24 hours.
 178. [Fire Fighter Turned Wholesaler | $350K in 1 Year](./transcripts/FSyqYTI1uRI.md) — en
 179. [The Novation KING! ($30k Average Deal)](./transcripts/OegUteQDgPI.md) — en
 180. [Raise $1,000,000 IN 30 DAYS | *2024!*](./transcripts/wZlyx8nw50E.md) — en
+181. [Best Creative Finance Strategy For Wholesalers | 2024 Update](./transcripts/CeQnrEeV0hA.md) — en
+182. [The Texas Wholesaling Dream Team | $75,000 Deal](./transcripts/A6sP__5mqus.md) — en
+183. [8 DEALS In 1 WEEK | $90K Florida Wholesaler](./transcripts/zEw6C86c4eY.md) — en
+184. [No Degree, No Problem | $70k Wholesale Deal!](./transcripts/b7pNPOnMaIw.md) — en
