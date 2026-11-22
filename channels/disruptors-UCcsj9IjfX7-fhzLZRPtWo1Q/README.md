@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-21T17:37:30.084Z
+> Automatically updated: 2026-11-22T17:52:34.593Z
 
-184 transcripts are available across 184 long-form videos. Each transcript is stored in its own readable Markdown file.
+188 transcripts are available across 188 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -193,3 +193,7 @@ The archive checks for new uploads once every 24 hours.
 182. [This is the Real COST of Doing Wholesale Deals](./transcripts/RxWp1oqSTfE.md) — en
 183. [Is the Recession Really Over?](./transcripts/Gympo85EqCI.md) — en
 184. [Real Estate vs Stock Market, Which Makes the Most Millionaires?](./transcripts/H0ilk1f1dOo.md) — en
+185. [The 3 Biggest Mistakes Ryan Zolin Learned from Last Year](./transcripts/L2qdxSA3FRk.md) — en
+186. [Meet Ryan Zolin: The Man Connecting Wholesalers and Realtors](./transcripts/TCZvosgnk34.md) — en
+187. [What the Wholesaling Courses Don't Teach You in Your First Appointment](./transcripts/EoTUOSyIOWs.md) — en
+188. [What to Look for in a Real Estate Course](./transcripts/6HqQJYJntf8.md) — en
