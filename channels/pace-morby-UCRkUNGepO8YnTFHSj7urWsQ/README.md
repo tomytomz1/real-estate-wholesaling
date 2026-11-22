@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-21T17:38:18.970Z
+> Automatically updated: 2026-11-22T17:53:39.372Z
 
-200 transcripts are available across 200 long-form videos. Each transcript is stored in its own readable Markdown file.
+204 transcripts are available across 204 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -209,3 +209,7 @@ The archive checks for new uploads once every 24 hours.
 198. [How Complete Beginners Turn Tiny Capital Into Real Estate Income](./transcripts/w9-7w8we1_s.md) — en
 199. [This Call Could Make A $7M Problem Go Away](./transcripts/21GZXlOrbSE.md) — en
 200. [How Subject To Actually Works (Simple Breakdown)](./transcripts/nGPTszcJ-XI.md) — en
+201. [Ignore This Advice and You’ll Lose Every Deal](./transcripts/ZsGHpT3RQJg.md) — en
+202. [How I Bought a Cash-Flow Machine With $0 Down](./transcripts/vVvcPPGqJG4.md) — en
+203. [I Wouldn't DARE Do This Strategy In Any Other State.](./transcripts/IjlpQdhsbkE.md) — en
+204. [Finding a SubTo Deal Is This Easy](./transcripts/ost6YrjYMCw.md) — en
