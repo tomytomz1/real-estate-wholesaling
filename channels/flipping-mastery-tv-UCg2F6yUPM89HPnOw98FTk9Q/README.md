@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-21T17:37:55.876Z
+> Automatically updated: 2026-11-22T17:53:08.786Z
 
-183 transcripts are available across 183 long-form videos. Each transcript is stored in its own readable Markdown file.
+187 transcripts are available across 187 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -192,3 +192,7 @@ The archive checks for new uploads once every 24 hours.
 181. [How Many Leads Does It Take To Wholesale 5 Deals A Month? (the real math)](./transcripts/155ljhDxzn4.md) — en
 182. [The PERFECT Real Estate Agent Call (This Works!)](./transcripts/Z3JQHToZnwU.md) — en
 183. [The UGLY Truth About Real Estate Wholesaling (you won’t like it)](./transcripts/cQQ5rJcmLCw.md) — en
+184. [3 Ways to Comp Houses Fast & FREE (2025 update)](./transcripts/P0jVDpeMs9Y.md) — en
+185. [5 Simple Steps To Close A Seller](./transcripts/GjPz0IArsL8.md) — en
+186. [How to Wholesale $100,000 Per Month (with NO team) ft. Mark Gabryel](./transcripts/V-4iZdVfej8.md) — en
+187. [The Future of Wholesale Real Estate (do this before 2026)](./transcripts/B7rItjhTGgE.md) — en
