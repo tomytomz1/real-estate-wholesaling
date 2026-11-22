@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-21T17:37:10.118Z
+> Automatically updated: 2026-11-22T17:52:19.208Z
 
-184 transcripts are available across 184 long-form videos. Each transcript is stored in its own readable Markdown file.
+188 transcripts are available across 188 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -193,3 +193,7 @@ The archive checks for new uploads once every 24 hours.
 182. [The Texas Wholesaling Dream Team | $75,000 Deal](./transcripts/A6sP__5mqus.md) — en
 183. [8 DEALS In 1 WEEK | $90K Florida Wholesaler](./transcripts/zEw6C86c4eY.md) — en
 184. [No Degree, No Problem | $70k Wholesale Deal!](./transcripts/b7pNPOnMaIw.md) — en
+185. [Navy Veteran Breaks Down His Process On BUYING PROPERTIES](./transcripts/CXd6IuHdd30.md) — en
+186. [How Title Companies Can Make YOU Millions | Inside the Deal Game](./transcripts/8dNj7xyYjKo.md) — en
+187. [DON'T GET SCAMMED AS A WHOLESALER IN 2024!](./transcripts/WSHD0LdVBU0.md) — en
+188. [Hottest List? PROBATE Deal NETS Wholesaler $80k](./transcripts/R-BWQAclh4Y.md) — en
