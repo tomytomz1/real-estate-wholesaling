@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-22T17:53:39.372Z
+> Automatically updated: 2026-11-23T22:06:02.464Z
 
-204 transcripts are available across 204 long-form videos. Each transcript is stored in its own readable Markdown file.
+208 transcripts are available across 208 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -213,3 +213,7 @@ The archive checks for new uploads once every 24 hours.
 202. [How I Bought a Cash-Flow Machine With $0 Down](./transcripts/vVvcPPGqJG4.md) — en
 203. [I Wouldn't DARE Do This Strategy In Any Other State.](./transcripts/IjlpQdhsbkE.md) — en
 204. [Finding a SubTo Deal Is This Easy](./transcripts/ost6YrjYMCw.md) — en
+205. [Why Calling Agents Beats Cold Calling Sellers](./transcripts/NEbWjWEk410.md) — en
+206. [How Real Estate Investors Legally Stop Paying Taxes](./transcripts/X-0I8Cgnt6E.md) — en
+207. [Wholesaling Is Broken | How to Protect Sellers AND Make Money](./transcripts/wCz11VwTle8.md) — en
+208. [The Smartest Way to Use Creative Finance for Real Estate Deals](./transcripts/ZJKMBbUYacY.md) — en
