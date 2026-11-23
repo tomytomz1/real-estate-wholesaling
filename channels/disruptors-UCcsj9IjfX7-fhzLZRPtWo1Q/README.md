@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-22T17:52:34.593Z
+> Automatically updated: 2026-11-23T22:05:07.619Z
 
-188 transcripts are available across 188 long-form videos. Each transcript is stored in its own readable Markdown file.
+192 transcripts are available across 192 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -197,3 +197,7 @@ The archive checks for new uploads once every 24 hours.
 186. [Meet Ryan Zolin: The Man Connecting Wholesalers and Realtors](./transcripts/TCZvosgnk34.md) — en
 187. [What the Wholesaling Courses Don't Teach You in Your First Appointment](./transcripts/EoTUOSyIOWs.md) — en
 188. [What to Look for in a Real Estate Course](./transcripts/6HqQJYJntf8.md) — en
+189. [How to Protect your Assets Against the Upcoming Recession](./transcripts/aGQWpJqyUsg.md) — en
+190. [Meet Chris Miles, The Man who Makes your Money Ripple](./transcripts/K7zjg-c0YHI.md) — en
+191. [Here's What to Say When Someone Says "I need to talk to my wife"](./transcripts/3Z_yXe2K46k.md) — en
+192. [Here's What I Tell People When they say "I'm not interested in selling."](./transcripts/AujjHUeK3GA.md) — en
