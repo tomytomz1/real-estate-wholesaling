@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-23T22:06:02.464Z
+> Automatically updated: 2026-11-24T20:42:58.758Z
 
-208 transcripts are available across 208 long-form videos. Each transcript is stored in its own readable Markdown file.
+212 transcripts are available across 212 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -217,3 +217,7 @@ The archive checks for new uploads once every 24 hours.
 206. [How Real Estate Investors Legally Stop Paying Taxes](./transcripts/X-0I8Cgnt6E.md) — en
 207. [Wholesaling Is Broken | How to Protect Sellers AND Make Money](./transcripts/wCz11VwTle8.md) — en
 208. [The Smartest Way to Use Creative Finance for Real Estate Deals](./transcripts/ZJKMBbUYacY.md) — en
+209. [How to Set Up Your Real Estate Business the Right Way](./transcripts/iK8HM3DSxPU.md) — en
+210. [Kansas City Is Sitting on a PadSplit Goldmine](./transcripts/u5ownwBUXgI.md) — en
+211. [Turning a “Bad Deal” Into a Win in St. Louis](./transcripts/mbbueOScGqI.md) — en
+212. [The Truth About Cashflow Nobody Tells Beginners](./transcripts/itxHJ51YabA.md) — en
