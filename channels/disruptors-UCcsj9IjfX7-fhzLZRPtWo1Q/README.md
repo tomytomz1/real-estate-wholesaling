@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-23T22:05:07.619Z
+> Automatically updated: 2026-11-24T20:41:56.305Z
 
-192 transcripts are available across 192 long-form videos. Each transcript is stored in its own readable Markdown file.
+196 transcripts are available across 196 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -201,3 +201,7 @@ The archive checks for new uploads once every 24 hours.
 190. [Meet Chris Miles, The Man who Makes your Money Ripple](./transcripts/K7zjg-c0YHI.md) — en
 191. [Here's What to Say When Someone Says "I need to talk to my wife"](./transcripts/3Z_yXe2K46k.md) — en
 192. [Here's What I Tell People When they say "I'm not interested in selling."](./transcripts/AujjHUeK3GA.md) — en
+193. [How I Bought $7MM In Real Estate with $10,000](./transcripts/eFKuvAX1wbA.md) — en
+194. [Meet David Olds the KING of Getting Deals DONE](./transcripts/ujtS5s6sbbQ.md) — en
+195. [How to Overcome Price Objections in Wholesale Real Estate](./transcripts/aFke-E9QpEo.md) — en
+196. [3 Ways To Increase Your Relationship Capital](./transcripts/NncmJ-0PuWc.md) — en
