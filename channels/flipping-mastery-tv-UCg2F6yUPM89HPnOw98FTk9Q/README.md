@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-23T22:05:31.109Z
+> Automatically updated: 2026-11-24T20:42:30.698Z
 
-190 transcripts are available across 191 long-form videos. Each transcript is stored in its own readable Markdown file.
+194 transcripts are available across 195 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -200,3 +200,7 @@ The archive checks for new uploads once every 24 hours.
 189. [After Calling 10,000 Sellers, I Discovered 7 Closing Techniques That Work!](./transcripts/ty9nCytaDGU.md) — en
 190. [How To Instantly Find Good Deals On Zillow - Using AI](./transcripts/tDHn3TKreZc.md) — en
 191. [Morning Routine On My Farm (Feeding The Animals)](./transcripts/__GGVD1EzEM.md) — Transcript unavailable
+192. [How To Negotiate & Close Motivated Sellers Like A Pro…](./transcripts/gjffu19ZiaM.md) — en
+193. [Do This If You Have $1,500 A Month for Marketing \[Wholesaling Houses\]](./transcripts/tl9PPUreLeM.md) — en
+194. [How Donnell Wholesaled His First Deal At 17 Years Old!](./transcripts/z0EOWZZAzVc.md) — en
+195. [This is Why You Need Flipster For Wholesaling & Flipping Houses](./transcripts/aAnAytXkD7g.md) — en
