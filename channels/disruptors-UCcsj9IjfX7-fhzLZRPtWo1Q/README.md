@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-24T20:41:56.305Z
+> Automatically updated: 2026-11-25T19:58:47.405Z
 
-196 transcripts are available across 196 long-form videos. Each transcript is stored in its own readable Markdown file.
+200 transcripts are available across 200 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -205,3 +205,7 @@ The archive checks for new uploads once every 24 hours.
 194. [Meet David Olds the KING of Getting Deals DONE](./transcripts/ujtS5s6sbbQ.md) — en
 195. [How to Overcome Price Objections in Wholesale Real Estate](./transcripts/aFke-E9QpEo.md) — en
 196. [3 Ways To Increase Your Relationship Capital](./transcripts/NncmJ-0PuWc.md) — en
+197. [Rescuing my Dead Lead was Easier than I Thought](./transcripts/P4tvh-0UXXk.md) — en
+198. [Enjoy your family now](./transcripts/xBxgpSZfpOk.md) — en
+199. [How to Overcome the Top Real Estate Objections](./transcripts/aGeM4D8wISo.md) — en
+200. [Use this Strategy to do BIGGER Deals Instead of MORE Deals](./transcripts/sM380uoPbhs.md) — en
