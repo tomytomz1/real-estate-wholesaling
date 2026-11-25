@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-24T20:41:27.631Z
+> Automatically updated: 2026-11-25T19:58:24.395Z
 
-196 transcripts are available across 196 long-form videos. Each transcript is stored in its own readable Markdown file.
+200 transcripts are available across 200 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -205,3 +205,7 @@ The archive checks for new uploads once every 24 hours.
 194. [Ultimate Side Hustle for College Students \[2024\]](./transcripts/J7Oy_OzL3io.md) — en
 195. [22 Year Old Does $122,000 In First Year Wholesaling](./transcripts/PW9f_i35mYc.md) — en
 196. [ZERO Experience Required | 4 Deals in 4 Months](./transcripts/Gz5uJRsAfq8.md) — en
+197. [THE BEST WAY to Find On-Market Wholesale Deals | Access the MLS](./transcripts/rQP9xpV4Kbo.md) — en
+198. [Getting Rich is Easy. STAYING Rich is Hard | Building Wealth with Wholesaling](./transcripts/rtN3nw0qdMI.md) — en
+199. [New Wholesaler Does 16 Deals in 8 Months](./transcripts/r7NqM7uxfZY.md) — en
+200. [80% of Wholesalers Get Their First Deal With This Strategy](./transcripts/KpNdM0CPJG4.md) — en
