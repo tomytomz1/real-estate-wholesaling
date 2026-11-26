@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-25T19:58:24.395Z
+> Automatically updated: 2026-11-26T19:40:28.393Z
 
-200 transcripts are available across 200 long-form videos. Each transcript is stored in its own readable Markdown file.
+204 transcripts are available across 204 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -209,3 +209,7 @@ The archive checks for new uploads once every 24 hours.
 198. [Getting Rich is Easy. STAYING Rich is Hard | Building Wealth with Wholesaling](./transcripts/rtN3nw0qdMI.md) — en
 199. [New Wholesaler Does 16 Deals in 8 Months](./transcripts/r7NqM7uxfZY.md) — en
 200. [80% of Wholesalers Get Their First Deal With This Strategy](./transcripts/KpNdM0CPJG4.md) — en
+201. [Building a 7-Figure Team | 20 Steps to Wholesaling \[Part 5\]](./transcripts/3QYV61I37_c.md) — en
+202. [Best Title Company for Wholesalers? \[Automate the Deal\]](./transcripts/9tAewL43s-U.md) — en
+203. [Build a Cash Buyers List in 24 Hours | 20 Steps to Wholesaling \[Part 4\]](./transcripts/zriHqFMHouw.md) — en
+204. [Get the Seller to Sign the Contract | 20 Steps to Wholesaling \[Part 3\]](./transcripts/iRWOj2k6OcU.md) — en
