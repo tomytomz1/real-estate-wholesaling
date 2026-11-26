@@ -1,9 +1,9 @@
 # Flipping Mastery TV — Transcript Archive
 
 > Channel: https://www.youtube.com/@FlippingMastery
-> Automatically updated: 2026-11-25T19:59:16.318Z
+> Automatically updated: 2026-11-26T19:41:34.704Z
 
-198 transcripts are available across 199 long-form videos. Each transcript is stored in its own readable Markdown file.
+202 transcripts are available across 203 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -208,3 +208,7 @@ The archive checks for new uploads once every 24 hours.
 197. [The 5 Ways To Manage A Rehab (Most Flippers Get This Wrong)](./transcripts/EvH_iNcdlqU.md) — en
 198. [How To Comp Properties in 2025 (Detailed Guide)](./transcripts/3E0rDt42dhs.md) — en
 199. [This Method ALWAYS Gets The Highest Price From Buyers](./transcripts/qFxYXFogKXk.md) — en
+200. [I Cloned Myself with AI to Coach You in Real Estate!](./transcripts/JRZ3IrmHW7o.md) — en
+201. [Wholesalers - This Is How To Beat Your Competition on EVERY Deal in 2025](./transcripts/hM4N7l1gjXA.md) — en
+202. [17 Ways Wholesalers Are Unethical](./transcripts/6KVZ7XPYAes.md) — en
+203. [The Truth About Trump's New Tax Law (No One’s Telling You)](./transcripts/VjguV8Z0aRc.md) — en
