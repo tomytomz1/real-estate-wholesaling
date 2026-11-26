@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-25T19:58:47.405Z
+> Automatically updated: 2026-11-26T19:40:50.903Z
 
-200 transcripts are available across 200 long-form videos. Each transcript is stored in its own readable Markdown file.
+204 transcripts are available across 204 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -209,3 +209,7 @@ The archive checks for new uploads once every 24 hours.
 198. [Enjoy your family now](./transcripts/xBxgpSZfpOk.md) — en
 199. [How to Overcome the Top Real Estate Objections](./transcripts/aGeM4D8wISo.md) — en
 200. [Use this Strategy to do BIGGER Deals Instead of MORE Deals](./transcripts/sM380uoPbhs.md) — en
+201. [Exclusive! BTS of Me Attending a Wholesale Appointment](./transcripts/NZipz7skl9k.md) — en
+202. [You Don't Need A Lead Manager](./transcripts/R_vBqZq0x58.md) — en
+203. [How to Stop Hiring Bad Cold Callers](./transcripts/fLkdljh_x-E.md) — en
+204. [Meet Scott Morse the Man with the Best Cold Callers](./transcripts/BIq-66mDnss.md) — en
