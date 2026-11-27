@@ -1,9 +1,9 @@
 # Brent Daniels - Wholesaling Inc — Transcript Archive
 
 > Channel: https://www.youtube.com/@BrentDanielsTTP
-> Automatically updated: 2026-11-26T19:40:28.393Z
+> Automatically updated: 2026-11-27T19:29:54.654Z
 
-204 transcripts are available across 204 long-form videos. Each transcript is stored in its own readable Markdown file.
+208 transcripts are available across 208 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -213,3 +213,7 @@ The archive checks for new uploads once every 24 hours.
 202. [Best Title Company for Wholesalers? \[Automate the Deal\]](./transcripts/9tAewL43s-U.md) — en
 203. [Build a Cash Buyers List in 24 Hours | 20 Steps to Wholesaling \[Part 4\]](./transcripts/zriHqFMHouw.md) — en
 204. [Get the Seller to Sign the Contract | 20 Steps to Wholesaling \[Part 3\]](./transcripts/iRWOj2k6OcU.md) — en
+205. [20 Steps to a Million Dollar Wholesaling Business \[Part 2\]](./transcripts/Vz6yzr4f7nU.md) — en
+206. [20 Steps to a Million Dollar Wholesaling Business \[Part 1\]](./transcripts/Sh8m8a4-viY.md) — en
+207. [$150 Million in Apartments | 400+ Flips | Lessons From a Real Estate Titan](./transcripts/h_1V6p8D-n0.md) — en
+208. [Ultimate Side Hustle for 2023 | Part-Time Wholesaler Closes $86,000 Deal](./transcripts/em2V8RuFZFY.md) — en
