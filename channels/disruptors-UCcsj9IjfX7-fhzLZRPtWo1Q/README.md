@@ -1,9 +1,9 @@
 # Disruptors — Transcript Archive
 
 > Channel: https://www.youtube.com/@DisruptorsPodcast
-> Automatically updated: 2026-11-26T19:40:50.903Z
+> Automatically updated: 2026-11-27T19:30:13.444Z
 
-204 transcripts are available across 204 long-form videos. Each transcript is stored in its own readable Markdown file.
+208 transcripts are available across 208 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -213,3 +213,7 @@ The archive checks for new uploads once every 24 hours.
 202. [You Don't Need A Lead Manager](./transcripts/R_vBqZq0x58.md) — en
 203. [How to Stop Hiring Bad Cold Callers](./transcripts/fLkdljh_x-E.md) — en
 204. [Meet Scott Morse the Man with the Best Cold Callers](./transcripts/BIq-66mDnss.md) — en
+205. [The #1 Framework you Need to Go Full Time in Real Estate](./transcripts/nXe1IfiVP5I.md) — en
+206. [What People Get Wrong About Setting Goals (Unrealistic)](./transcripts/zR9jylKuKvo.md) — en
+207. [The Most Impactful Change I've Ever Made](./transcripts/nnSyMZc-kB4.md) — en
+208. [How to Transform your Life and Find Good People to Hire](./transcripts/ppFpfwGzHhY.md) — en
