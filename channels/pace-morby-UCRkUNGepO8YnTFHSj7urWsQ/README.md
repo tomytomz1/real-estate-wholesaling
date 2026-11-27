@@ -1,9 +1,9 @@
 # Pace Morby — Transcript Archive
 
 > Channel: https://www.youtube.com/@PaceMorby
-> Automatically updated: 2026-11-26T19:41:56.247Z
+> Automatically updated: 2026-11-27T19:31:33.613Z
 
-220 transcripts are available across 220 long-form videos. Each transcript is stored in its own readable Markdown file.
+224 transcripts are available across 224 long-form videos. Each transcript is stored in its own readable Markdown file.
 
 The archive checks for new uploads once every 24 hours.
 
@@ -229,3 +229,7 @@ The archive checks for new uploads once every 24 hours.
 218. [America’s Most Overlooked Real Estate Market](./transcripts/ZWJ35lZ8llI.md) — en
 219. [$68k Deal That Changed a Wholesaler’s Life in Fargo | Creative Nation Tour](./transcripts/1EazuiUSD2Q.md) — en
 220. [Newbie Locked a Seller Finance Deal LIVE in Minneapolis ﻿| Creative Nation Tour](./transcripts/dt4n6g-3dJA.md) — en
+221. [We Saved a Family from Foreclosure in Green Bay](./transcripts/0scVaq0doWM.md) — en
+222. [From ﻿Newbie to Deal in 30 Minutes﻿﻿﻿ in Milwaukee | Creative Nation Tour](./transcripts/qKHADpkYoC0.md) — en
+223. [She Got Her First Deal LIVE in Chicago | Creative Nation Tour](./transcripts/m9EbCOnDH-0.md) — en
+224. [Locking Up Deals for New Investors in OKC](./transcripts/Tk_MYP5Np08.md) — en
